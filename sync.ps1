@@ -31,3 +31,4 @@ if ($remotes) {
 }
 
 Write-Host "🎉 Hoàn tất!" -ForegroundColor Green
+
