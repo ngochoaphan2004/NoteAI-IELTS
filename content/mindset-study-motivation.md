@@ -77,7 +77,7 @@
 
 ### 5. 📉 Chấp Nhận & Vượt Qua "Thung Lũng Thất Vọng" (The Valley of Despair)
 - Mọi đường cong học tập (Learning Curve) đều tuân theo quy luật tâm lý:
-  $$\text{Đỉnh cao của sự ngây thơ (Hào hứng ban đầu)} \longrightarrow \text{Thung lũng thất vọng (Thấy quá khó & nản)} \longrightarrow \text{Con dốc giác ngộ (Dần làm chủ kiến thức)}$$
+  > **Đỉnh cao ngây thơ** *(Hào hứng)* $\longrightarrow$ **Thung lũng thất vọng** *(Nản lòng)* $\longrightarrow$ **Con dốc giác ngộ** *(Làm chủ)*
 - Khi bạn bắt đầu thấy nản, muốn bỏ cuộc, hãy nhận thức rằng: **Bạn chỉ đang ở dưới đáy thung lũng mà thôi**.
 - Đó là tín hiệu bình thường của quá trình nâng cấp năng lực. Cứ kiên trì lầm lũi bước tiếp từng ngày, bạn chắc chắn sẽ vượt qua đáy dốc và chạm tới sự thông suốt.
 
