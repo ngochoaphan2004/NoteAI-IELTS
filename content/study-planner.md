@@ -52,3 +52,4 @@
 - 🎯 **Lộ trình dài hạn:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Định vị giai đoạn học hiện tại)*
 - 🌐 **Kho tài liệu:** [[resources-learning-tools|Tổng hợp website & công cụ luyện đề]] *(Web thi thử, Simon Writing, TED)*
 - 💡 **Tâm lý & Chiến lược:** [[mindset-study-motivation|Kỷ luật học tập & Vượt qua sức ì]] *(Quy tắc 10 phút, chia nhỏ con voi)*
+
