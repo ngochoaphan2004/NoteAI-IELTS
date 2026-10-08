@@ -36,4 +36,7 @@ Bạn là trợ lý ghi chép và quản lý khu vườn tri thức (Digital Gar
 1. Phân loại nội dung và chọn tên file phù hợp (tạo mới hoặc bổ sung vào file có sẵn trong `content/`).
 2. Định dạng nội dung thành Markdown chuẩn.
 3. Cập nhật dòng liên kết mới vào `content/index.md`.
-4. Thông báo ngắn gọn cho người dùng: tên file, tóm tắt và nhắc nhở xem trên Quartz web.
+4. **Tự động thực hiện Git commit cục bộ:**
+   - Chạy lệnh `git add content/` (kèm các file cấu hình liên quan nếu có thay đổi).
+   - Commit với thông điệp rõ ràng: `docs: add note <tên-file>` (khi tạo mới) hoặc `docs: update note <tên-file>` (khi cập nhật).
+5. Thông báo ngắn gọn cho người dùng: tên file, tóm tắt, xác nhận commit và nhắc nhở xem trên Quartz web.
