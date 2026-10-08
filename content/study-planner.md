@@ -21,7 +21,7 @@
 
 | Ngày & Thứ | Kỹ Năng & Thời Gian | Phương Pháp Thực Thi (Execution) | Trạng Thái |
 | :--- | :--- | :--- | :---: |
-| **Thứ 5 (Hôm nay)**<br>*(08/10/2026)* | **Listening (Baseline)**<br>`45 phút` | • **30p:** Thực hiện 1 bài kiểm tra Listening tiêu chuẩn (Cambridge 18 hoặc 19). Tuyệt đối không dừng audio giữa chừng.<br>• **15p:** Trích xuất lỗi sai. Chi tiết xem tại [[test-cam18-test1-listening|Báo cáo Cam 18 Test 1]]. | [x] **Hoàn thành (9/40)** |
+| **Thứ 5 (Hôm nay)**<br>*(08/10/2026)* | **Listening (Baseline)**<br>`45 phút` | • **30p:** Thực hiện 1 bài kiểm tra Listening tiêu chuẩn (Cambridge 18 hoặc 19). Tuyệt đối không dừng audio giữa chừng.<br>• **15p:** Lưu trữ bài làm để người học tự đối soát và phân tích. Xem tại [[test-cam18-test1-listening|Bài làm Cam 18 Test 1]]. | [x] **Đã lưu bài làm** |
 | **Thứ 6**<br>*(09/10/2026)* | **Reading (Khớp dữ liệu)**<br>`45 phút` | • **20p:** Xử lý 1 Passage 3 trong bộ Cambridge bằng kỹ thuật *keyword mapping* (khớp từ khóa câu hỏi và bài đọc).<br>• **25p:** Phân tích ngược cấu trúc bài đọc. Trích xuất 5–7 cụm từ học thuật cốt lõi và các cơ chế liên kết câu (*cohesive devices*). | [ ] Chưa làm |
 | **Thứ 7**<br>*(10/10/2026)* | **Writing Task 1 (Báo cáo số liệu)**<br>`45 phút` | • **15p:** Khảo sát biểu đồ biến động thời gian (Line/Bar graph). Xác định các xu hướng vĩ mô (*macro trends*) và các điểm dữ liệu ngoại lai (*outliers*).<br>• **30p:** Viết văn bản báo cáo. Loại bỏ hoàn toàn ngôn ngữ chủ quan, tính từ cảm xúc và mọi suy diễn cá nhân không có cơ sở từ biểu đồ. | [ ] Chưa làm |
 | **Chủ Nhật**<br>*(11/10/2026)* | **Speaking & System Review**<br>`50 phút` | • **20p:** Ghi âm toàn bộ quá trình trả lời liên tục 1 đề Speaking Part 2. Không được phép dừng lại hay sửa lỗi giữa chừng để thu thập dữ liệu độ trôi chảy thực tế.<br>• **30p:** Nghe lại để phát hiện lỗi ngập ngừng và lặp từ. Đồng bộ toàn bộ dữ liệu từ vựng/lỗi sai của 4 ngày vào hệ thống lặp lại ngắt quãng (Spaced Repetition / Anki) để lưu trữ dài hạn. | [ ] Chưa làm |
@@ -31,12 +31,8 @@
 ### 📝 Chi Tiết Thực Thi & Checklist Từng Ngày
 
 #### 🎯 Thứ 5 (08/10/2026) — Listening Baseline (45 Phút)
-- [x] **30 phút làm bài:** Test 1 Cam 18 Listening — Kết quả: **9/40** (~Band 3.5 - 4.0).
-- [x] **15 phút phân loại lỗi sai:** Đã hoàn tất và lưu tại [[test-cam18-test1-listening|Báo cáo chi tiết]].
-  - Thiếu hụt từ vựng / ngữ cảnh (*lexical deficit*): Câu 2, 4.
-  - Lỗi nhận diện âm (*phonological error*): Câu 1, 5.
-  - Vi phạm số từ & chính tả (*constraints & spelling*): Câu 6, 9.
-  - Bị trôi nhịp / sập nguồn (*cognitive overload*): Câu 16-18, 20, 22-26, 28-40.
+- [x] **30 phút làm bài:** Đã hoàn thành bài làm Test 1 Cam 18 Listening.
+- [x] **Lưu trữ bài làm:** Đã lưu đầy đủ 40 câu bài làm của bạn vào [[test-cam18-test1-listening|Bài làm Cam 18 Test 1]] để bạn tự đối soát và ghi chú lỗi sai.
 
 #### 🎯 Thứ 6 (09/10/2026) — Reading Keyword Mapping (45 Phút)
 - [ ] **20 phút làm bài:** Xử lý 1 Passage 3 Cam 18/19 với kỹ thuật Keyword Mapping.
