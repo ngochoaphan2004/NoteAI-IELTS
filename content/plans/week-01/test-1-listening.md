@@ -113,3 +113,4 @@ tags:
 
 - 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
 - 🎯 **Lộ trình tổng thể:** [[roadmap-5.0-to-7.5|Lộ trình 5.0 lên 7.5]]
+
