@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "vi-VN",
-    baseUrl: "localhost:8080",
+    baseUrl: "ngochoaphan2004.github.io/NoteAI-IELTS",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
