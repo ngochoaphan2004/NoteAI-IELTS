@@ -1,6 +1,56 @@
 @use "./base.scss";
 
-// Tùy chỉnh khung đọc PDF nhúng trong trang
+// Tùy chỉnh khung đọc PDF nhúng trong trang kèm thanh công cụ
+.pdf-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0.8rem 0 1.2rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--light);
+
+  .pdf-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.45rem 0.75rem;
+    background-color: var(--lightgray);
+    border-bottom: 1px solid var(--lightgray);
+    flex-wrap: wrap;
+
+    .pdf-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.25rem 0.65rem;
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: var(--dark);
+      background-color: var(--light);
+      border: 1px solid var(--gray);
+      border-radius: 5px;
+      text-decoration: none;
+      transition: all 0.15s ease;
+
+      &:hover {
+        background-color: var(--secondary);
+        color: var(--light);
+        border-color: var(--secondary);
+      }
+    }
+  }
+
+  iframe.pdf {
+    min-height: 750px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    display: block;
+  }
+}
+
+// Fallback nếu iframe.pdf không nằm trong .pdf-container
 iframe.pdf {
   min-height: 750px;
   width: 100%;
