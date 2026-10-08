@@ -80,3 +80,4 @@ Mỗi khi tiếp nhận thông tin hoặc cập nhật ghi chú từ người h�
      - Cập nhật: `docs: update note <tên-file>`
    - Chạy `git push origin main` để đẩy lên GitHub Repository, kích hoạt GitHub Actions tự động build website.
 4. **Phản hồi ngắn gọn:** Thông báo cho người dùng tên file, tóm tắt thay đổi và xác nhận git push thành công.
+

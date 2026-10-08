@@ -261,7 +261,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   } else if ([".pdf"].includes(ext)) {
                     return {
                       type: "html",
-                      value: `<div class="pdf-container"><div class="pdf-toolbar"><a href="${url}" target="_blank" rel="noopener noreferrer" class="pdf-btn">↗️ Mở trong tab mới</a><a href="${url}" download class="pdf-btn">⬇️ Tải xuống PDF</a></div><iframe src="${url}" class="pdf"></iframe></div>`,
+                      value: `<div class="pdf-container"><div class="pdf-toolbar"><a href="${url}" target="_blank" rel="noopener noreferrer" class="pdf-btn primary" data-router-ignore>↗️ Mở PDF trong tab mới</a><a href="${url}" download class="pdf-btn" data-router-ignore>⬇️ Tải xuống PDF</a></div><iframe src="${url}" class="pdf"></iframe></div>`,
                     }
                   } else {
                     const block = anchor
