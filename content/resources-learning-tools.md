@@ -1,3 +1,11 @@
+---
+title: "Tổng Hợp Website & Công Cụ"
+tags:
+  - resources
+  - tools
+  - ielts
+---
+
 # 🌐 Tổng Hợp Website & Công Cụ Luyện Thi IELTS Hữu Ích
 
 > **Phân loại:** Tài nguyên & Công cụ (Resources & Tools)  
@@ -60,6 +68,7 @@
 ---
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan (Knowledge Network)
-- 🎯 **Lộ trình áp dụng:** [roadmap-5.0-to-7.5.md](./roadmap-5.0-to-7.5.md) *(Xem chi tiết các giai đoạn áp dụng các tài liệu này)*
+- 🎯 **Lộ trình áp dụng:** [[roadmap-5.0-to-7.5|Lộ Trình Từ 5.0 Lên 7.5]] *(Xem chi tiết các giai đoạn áp dụng các tài liệu này)*
+- 📅 **Kế hoạch học tập:** [[plans/week-01|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]] *(Kế hoạch thực thi 4 ngày)*
 
 

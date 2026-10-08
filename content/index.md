@@ -1,3 +1,7 @@
+---
+title: "Trang Chủ"
+---
+
 # 📚 IELTS Study Notes - Index
 
 Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự động được liên kết vào đây theo từng nhóm để bạn tiện tra cứu.

@@ -1,5 +1,5 @@
 ---
-title: "Kế Hoạch Tuần 1: 08/10 – 11/10/2026"
+title: "Kế Hoạch Tuần 1 (08/10 – 11/10)"
 aliases:
   - study-planner
   - test-cam18-test1-listening
@@ -149,3 +149,4 @@ tags:
 
 - 🎯 **Lộ trình tổng thể:** [[roadmap-5.0-to-7.5|Lộ trình 5.0 lên 7.5 (Listening & Reading 8.0+)]]
 - 🌐 **Tài nguyên học tập:** [[resources-learning-tools|Kho tài liệu luyện đề & công cụ hỗ trợ]]
+
