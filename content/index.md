@@ -12,7 +12,6 @@ Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự đ
 
 ### 🗓️ Kế Hoạch Học Tập Theo Tuần (Weekly Study Plans)
 - [[plans/week-01/|Kế Hoạch Tuần 1: 08/10 – 11/10/2026]] — *Lịch trình 4 ngày (Thứ 5 – Chủ Nhật, 45-50p/ngày): Listening Baseline, Reading Keyword Mapping, Writing Task 1, Speaking Part 2.*
-  - [[plans/week-01/test-1-listening|Bài Làm Cambridge 18 Test 1 Listening (Đề + Script + 40 câu đáp án)]]
 
 ### 🎯 Lộ Trình & Mục Tiêu (Roadmaps)
 - [Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5](./roadmap-5.0-to-7.5.md) — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu.*

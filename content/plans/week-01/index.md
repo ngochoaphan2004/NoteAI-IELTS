@@ -2,7 +2,6 @@
 title: "Kế Hoạch Tuần 1 (08/10 – 11/10)"
 aliases:
   - study-planner
-  - test-cam18-test1-listening
   - plans/week-01
 tags:
   - study-planner
