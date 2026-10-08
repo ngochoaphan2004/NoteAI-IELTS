@@ -8,6 +8,26 @@
 
 ---
 
+## 📑 Tài Liệu Đính Kèm (Đọc Trực Tiếp Trên Web)
+
+> Bạn có thể bấm mở để đọc đề thi hoặc audio script trực tiếp trong khung bên dưới:
+
+<details open>
+<summary><b>📄 1. Đề Bài: Cambridge 18 - Test 1 Listening (Test1.pdf)</b></summary>
+
+![[Test1.pdf]]
+
+</details>
+
+<details open>
+<summary><b>📜 2. Audio Script: Lời Thoại Test 1 Listening (Test1-script.pdf)</b></summary>
+
+![[Test1-script.pdf]]
+
+</details>
+
+---
+
 ## 📋 Bảng Ghi Nhận Bài Làm Của Bạn (40 Câu)
 
 ### 🔹 Part 1 (Questions 1 – 10)
