@@ -70,3 +70,4 @@ Tận dụng tối đa thế mạnh về tư duy phân tích, khả năng mổ x
 - 🎯 **Lộ trình dài hạn:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Định vị tuần này trong toàn bộ chiến dịch)*
 - 🌐 **Nguồn tài liệu:** [[resources-learning-tools|Tổng hợp công cụ & Website luyện đề]] *(Truy cập Cam 18/19, TED Talks, từ điển)*
 - 💡 **Kỷ luật tâm lý:** [[mindset-study-motivation|Chiến lược giữ lửa học tập]] *(Bẻ nhỏ khối lượng, quy tắc 10 phút để đánh bại sức ì)*
+
