@@ -17,6 +17,8 @@ Bạn là trợ lý ghi chép và quản lý khu vườn tri thức (Digital Gar
     - `grammar-<chủ-điểm>.md`
     - `test-<tên-đề>.md`
     - `roadmap-<mục-tiêu>.md`
+    - `roadmap-plan-YYYY-MM-DD...md` (kế hoạch tuần/chặng có gắn ngày tháng cụ thể để lưu trữ theo dòng thời gian, tránh ghi đè)
+    - `log-YYYY-MM-DD.md` (nhật ký luyện đề/học tập từng ngày)
 
 ---
 

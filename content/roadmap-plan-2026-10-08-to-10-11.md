@@ -1,8 +1,8 @@
-# ⚡ Kế Hoạch Hành Động Tuần: Tối Ưu Năng Lực Cốt Lõi
+# ⚡ Kế Hoạch Hành Động: 08/10/2026 – 11/10/2026
 
-> **Phân loại:** Kế hoạch hành động thực chiến (Action Plan)  
+> **Phân loại:** Kế hoạch hành động theo tuần (Weekly Action Plan)  
+> **Thời gian:** 08/10/2026 – 11/10/2026 (Thứ 5 – Chủ Nhật)  
 > **Phương pháp:** Tiếp cận bằng tư duy phân tích dữ liệu & kỷ luật logic  
-> **Thời gian:** Thứ 5 – Chủ Nhật  
 > **Thẻ phân loại:** `#roadmap` `#weekly-plan` `#action-plan` `#ielts` `#band7plus`
 
 ---
@@ -12,9 +12,9 @@ Tận dụng tối đa thế mạnh về tư duy phân tích, khả năng mổ x
 
 ---
 
-## 📅 Lịch Trình Chi Tiết & Nhiệm Vụ Từng Ngày
+## 📅 Lịch Trình Chi Tiết Từng Ngày
 
-### 🗓️ Thứ 5: Đánh Giá Năng Lực Cốt Lõi (Baseline & Root-Cause Analysis)
+### 🗓️ Thứ 5 (08/10/2026): Đánh Giá Năng Lực Cốt Lõi (Baseline & Root-Cause)
 > *Mục tiêu: Thiết lập thước đo chính xác về phong độ hiện tại; không tự lừa dối bản thân.*
 
 - [ ] **Làm đề nghiêm ngặt dưới áp lực thời gian:**
@@ -29,7 +29,7 @@ Tận dụng tối đa thế mạnh về tư duy phân tích, khả năng mổ x
 
 ---
 
-### 🗓️ Thứ 6: Tích Lũy Từ Vựng Học Thuật & Nghe Chủ Động
+### 🗓️ Thứ 6 (09/10/2026): Tích Lũy Từ Vựng Học Thuật & Nghe Chủ Động
 > *Mục tiêu: Nạp "nguyên liệu" học thuật chất lượng cao từ các nguồn dữ liệu chuyên sâu.*
 
 - [ ] **Đọc học thuật & Trích xuất cấu trúc:**
@@ -41,7 +41,7 @@ Tận dụng tối đa thế mạnh về tư duy phân tích, khả năng mổ x
 
 ---
 
-### 🗓️ Thứ 7: Xử Lý Dữ Liệu Thực Chiến — Writing Task 1
+### 🗓️ Thứ 7 (10/10/2026): Xử Lý Dữ Liệu Thực Chiến — Writing Task 1
 > *Mục tiêu: Biến biểu đồ thành báo cáo phân tích số liệu khách quan, sắc bén.*
 
 - [ ] **Thực hành viết 2 bài Task 1:**
@@ -53,7 +53,7 @@ Tận dụng tối đa thế mạnh về tư duy phân tích, khả năng mổ x
 
 ---
 
-### 🗓️ Chủ Nhật: Ghi Âm Speaking Khách Quan & Tổng Duyệt Hệ Thống
+### 🗓️ Chủ Nhật (11/10/2026): Ghi Âm Speaking Khách Quan & Tổng Duyệt Hệ Thống
 > *Mục tiêu: Đo lường chính xác phong độ nói và đưa toàn bộ kiến thức vào bộ nhớ dài hạn.*
 
 - [ ] **Ghi âm Speaking thực chiến (20 phút):**
@@ -70,4 +70,3 @@ Tận dụng tối đa thế mạnh về tư duy phân tích, khả năng mổ x
 - 🎯 **Lộ trình dài hạn:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Định vị tuần này trong toàn bộ chiến dịch)*
 - 🌐 **Nguồn tài liệu:** [[resources-learning-tools|Tổng hợp công cụ & Website luyện đề]] *(Truy cập Cam 18/19, TED Talks, từ điển)*
 - 💡 **Kỷ luật tâm lý:** [[mindset-study-motivation|Chiến lược giữ lửa học tập]] *(Bẻ nhỏ khối lượng, quy tắc 10 phút để đánh bại sức ì)*
-

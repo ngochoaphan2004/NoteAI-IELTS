@@ -7,7 +7,7 @@ Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự đ
 ## 📌 Danh mục ghi chú
 
 ### 🎯 Lộ Trình & Mục Tiêu (Roadmap)
-- [Kế Hoạch Hành Động Tuần: Tối Ưu Năng Lực Cốt Lõi](./roadmap-weekly-action-plan.md) — *Lịch trình chi tiết Thứ 5 – Chủ Nhật: Đánh giá baseline, nạp từ vựng học thuật, viết Task 1 theo tư duy dữ liệu và ghi âm Speaking*
+- [Kế Hoạch Hành Động (08/10 – 11/10/2026)](./roadmap-plan-2026-10-08-to-10-11.md) — *Lịch trình chi tiết Thứ 5 đến Chủ Nhật (08/10 – 11/10/2026): Đánh giá baseline, nạp từ vựng học thuật, viết Task 1 và ghi âm Speaking*
 - [Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5](./roadmap-5.0-to-7.5.md) — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu*
 
 ### 💡 Động Lực & Phương Pháp Học (Mindset & Motivation)
