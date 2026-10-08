@@ -13,6 +13,9 @@ Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự đ
 ### 🎧 Kỹ Năng Listening (Nghe)
 - [Chiến Thuật Xử Lý Gap-Fill & Map Labelling](./listening-gapfill-and-map.md) — *Quy trình 4 bước giải Gap-Fill (Constraints, Prediction, Keywords, Execution) và kỹ thuật trực quan hóa bản đồ Map*
 
+### 📊 Nhật Ký Luyện Đề (Mock Tests & Logs)
+- [Cambridge 18 Test 1 Listening (Baseline Report)](./test-cam18-test1-listening.md) — *Báo cáo phân tích câu sai chi tiết (Root-Cause Analysis), đo lường năng lực khởi điểm 9/40*
+
 ### 💡 Động Lực & Phương Pháp Học (Mindset & Motivation)
 - [Nghệ Thuật Giữ Lửa Học Tập & Chiến Lược Vượt Qua Sức Ì](./mindset-study-motivation.md) — *10 nguyên tắc nuôi dưỡng cảm hứng học tập và 5 chiến lược thực chiến đánh bại sức ì, thung lũng thất vọng*
 

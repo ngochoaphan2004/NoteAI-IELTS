@@ -93,3 +93,4 @@ Dạng Map thường gây hoang mang vì tốc độ nói liên tục và đòi 
 - 📅 **Lịch trình hôm nay:** [[study-planner|Sổ kế hoạch học tập]] *(Phiên thực chiến Listening Baseline 45p tối nay)*
 - 🌐 **Nguồn làm đề:** [[resources-learning-tools|Kho tài liệu luyện thi]] *(Bộ đề Cambridge 18/19 & Mini-ielts)*
 - 🎯 **Lộ trình điểm số:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Mục tiêu gánh điểm: Listening 8.0 - 8.5)*
+
