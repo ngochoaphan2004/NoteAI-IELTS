@@ -52,4 +52,3 @@
 
 - 🎯 **Lộ trình dài hạn:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Mục tiêu Listening 8.0-8.5)*
 - 🌐 **Nguồn đề thi:** [[resources-learning-tools|Kho tài liệu luyện đề]] *(Truy cập bộ đề Cambridge 18/19)*
-- 💡 **Kỷ luật tâm lý:** [[mindset-study-motivation|Chiến lược giữ lửa học tập]] *(Kiểm soát ma sát, nỗ lực tối thiểu 10 phút)*

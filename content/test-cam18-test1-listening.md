@@ -87,5 +87,5 @@
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan
 
-- 🎧 **Chiến thuật dạng bài:** [[listening-gapfill-and-map|Chiến thuật Gap-Fill & Map Labelling]]
 - 📅 **Lịch trình học tập:** [[study-planner|Sổ kế hoạch học tập]]
+- 🎯 **Lộ trình tổng thể:** [[roadmap-5.0-to-7.5|Lộ trình 5.0 lên 7.5]]

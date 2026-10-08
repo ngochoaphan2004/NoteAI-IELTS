@@ -61,6 +61,5 @@
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan (Knowledge Network)
 - 🎯 **Lộ trình áp dụng:** [roadmap-5.0-to-7.5.md](./roadmap-5.0-to-7.5.md) *(Xem chi tiết các giai đoạn áp dụng các tài liệu này)*
-- 💡 **Tâm lý & Giữ lửa học tập:** [mindset-study-motivation.md](./mindset-study-motivation.md) *(Cách giảm ma sát môi trường, quy tắc 10 phút)*
 
 
