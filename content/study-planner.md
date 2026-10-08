@@ -1,55 +1,59 @@
 # 📅 Sổ Kế Hoạch & Lịch Trình Học Tập (Study Planner)
 
-> **Mục đích:** Theo dõi chi tiết lịch trình, nhiệm vụ từng ngày và tiến độ học IELTS theo từng tuần  
+> **Mục đích:** Theo dõi chi tiết lịch trình, nhiệm vụ từng ngày và tiến độ học IELTS  
+> **Nguyên tắc cốt lõi:** Cố định mỗi phiên ở mức **45 – 50 phút** để tối ưu hóa tải trọng nhận thức (Cognitive Load)  
 > **Cập nhật gần nhất:** 08/10/2026  
-> **Thẻ phân loại:** `#study-planner` `#roadmap` `#action-plan` `#ielts`
+> **Thẻ phân loại:** `#study-planner` `#action-plan` `#ielts` `#baseline`
 
 ---
 
 ## 📌 Lối Tắt Điều Hướng Nhanh (Timeline)
-- 📍 [Tuần 08/10/2026 – 11/10/2026 (Tối Ưu Năng Lực Cốt Lõi)](#-tuần-08102026--11102026-tối-ưu-năng-lực-cốt-lõi)
-- ⏳ *Các tuần tiếp theo sẽ được tự động nối tiếp vào tài liệu này*
+- 📍 [Kế Hoạch Thực Nghiệm: 08/10/2026 – 11/10/2026 (45-50p/ngày)](#-kế-hoạch-thực-nghiệm-08102026--11102026)
+- ⏳ *Các kế hoạch tiếp theo sẽ được tự động nối tiếp vào tài liệu này*
 
 ---
 
-## 🗓️ Tuần: 08/10/2026 – 11/10/2026 (Tối Ưu Năng Lực Cốt Lõi)
+## 🗓️ Kế Hoạch Thực Nghiệm: 08/10/2026 – 11/10/2026
 
-> **Mục tiêu tuần:** Thiết lập thước đo thực tế (Baseline), nạp input học thuật chuyên sâu và chuẩn hóa tư duy phân tích dữ liệu cho Writing Task 1.
+> [!IMPORTANT]
+> **Giới hạn tải trọng nhận thức (Cognitive Load Control):**  
+> Mỗi phiên làm việc được cố định nghiêm ngặt ở mức **45 – 50 phút**. Tập trung cao độ tuyệt đối trong khoảng thời gian này, không kéo dài lê thê để giữ sự sắc bén cho não bộ.
 
-| Ngày & Thứ | Nhiệm Vụ Trọng Tâm | Chi Tiết Hành Động | Trạng Thái |
+| Ngày & Thứ | Kỹ Năng & Thời Gian | Phương Pháp Thực Thi (Execution) | Trạng Thái |
 | :--- | :--- | :--- | :---: |
-| **Thứ 5**<br>*(08/10/2026)* | **Đo Lường Mốc Cơ Sở (Baseline)** | • Làm 1 đề full **Reading (60p) & Listening (30p)** (Cambridge 18 hoặc 19), ép giờ nghiêm ngặt, không pause.<br>• **Root-cause analysis:** Mổ xẻ 100% câu sai theo 3 nhóm: Thiếu từ vựng, Dính bẫy (distractor), hoặc Sai phương pháp. | [ ] Chưa làm |
-| **Thứ 6**<br>*(09/10/2026)* | **Tích Lũy Input Học Thuật** | • Dùng Skimming/Scanning đọc paper chuyên ngành (Federated Learning, AI) $\rightarrow$ trích xuất câu học thuật & từ nối logic cho Writing.<br>• Nghe chủ động bài giảng học thuật / TED Talks $\rightarrow$ luyện **Shadowing (nhại giọng)** chuẩn hóa phát âm và ngữ điệu. | [ ] Chưa làm |
-| **Thứ 7**<br>*(10/10/2026)* | **Xử Lý Dữ Liệu: Task 1** | • Viết 2 bài Task 1 dạng biến thiên thời gian (Line graph / Bar chart).<br>• Tiếp cận như kỹ sư dữ liệu: Cô lập **Macro Trends** (Overview), khoanh vùng **Outliers / Extremes** (cực trị, giao cắt) và báo cáo số liệu khách quan. | [ ] Chưa làm |
-| **Chủ Nhật**<br>*(11/10/2026)* | **Ghi Âm Speaking & Tổng Duyệt** | • Bật máy ghi âm 20 phút trả lời liên tục Part 1 & 2 $\rightarrow$ nghe lại tự bắt lỗi ngữ pháp, ngập ngừng, lặp từ.<br>• Đưa toàn bộ từ vựng mới & lỗi sai trong tuần vào **Anki (Spaced Repetition)** để lưu trữ dài hạn. | [ ] Chưa làm |
+| **Thứ 5 (Hôm nay)**<br>*(08/10/2026)* | **Listening (Baseline)**<br>`45 phút` | • **30p:** Thực hiện 1 bài kiểm tra Listening tiêu chuẩn (Cambridge 18 hoặc 19). Tuyệt đối không dừng audio giữa chừng.<br>• **15p:** Trích xuất lỗi sai theo 3 nhóm: thiếu hụt từ vựng (*lexical deficit*), nhận diện âm thanh (*phonological error*), hoặc nhiễu thông tin (*distractor*). | [ ] Chưa làm |
+| **Thứ 6**<br>*(09/10/2026)* | **Reading (Khớp dữ liệu)**<br>`45 phút` | • **20p:** Xử lý 1 Passage 3 trong bộ Cambridge bằng kỹ thuật *keyword mapping* (khớp từ khóa câu hỏi và bài đọc).<br>• **25p:** Phân tích ngược cấu trúc bài đọc. Trích xuất 5–7 cụm từ học thuật cốt lõi và các cơ chế liên kết câu (*cohesive devices*). | [ ] Chưa làm |
+| **Thứ 7**<br>*(10/10/2026)* | **Writing Task 1 (Báo cáo số liệu)**<br>`45 phút` | • **15p:** Khảo sát biểu đồ biến động thời gian (Line/Bar graph). Xác định các xu hướng vĩ mô (*macro trends*) và các điểm dữ liệu ngoại lai (*outliers*).<br>• **30p:** Viết văn bản báo cáo. Loại bỏ hoàn toàn ngôn ngữ chủ quan, tính từ cảm xúc và mọi suy diễn cá nhân không có cơ sở từ biểu đồ. | [ ] Chưa làm |
+| **Chủ Nhật**<br>*(11/10/2026)* | **Speaking & System Review**<br>`50 phút` | • **20p:** Ghi âm toàn bộ quá trình trả lời liên tục 1 đề Speaking Part 2. Không được phép dừng lại hay sửa lỗi giữa chừng để thu thập dữ liệu độ trôi chảy thực tế.<br>• **30p:** Nghe lại để phát hiện lỗi ngập ngừng và lặp từ. Đồng bộ toàn bộ dữ liệu từ vựng/lỗi sai của 4 ngày vào hệ thống lặp lại ngắt quãng (Spaced Repetition / Anki) để lưu trữ dài hạn. | [ ] Chưa làm |
 
 ---
 
-### 📝 Chi Tiết Từng Ngày & Checklist Hoàn Thành
+### 📝 Chi Tiết Thực Thi & Checklist Từng Ngày
 
-#### 🎯 Thứ 5 (08/10/2026) — Đánh Giá Năng Lực Cốt Lõi
-- [ ] Hoàn thành full Test 1 Cam 18/19 (Reading: 60p, Listening: 30p).
-- [ ] Ghi lại điểm số: Reading: `___/40` | Listening: `___/40`.
-- [ ] Lập bảng thống kê nguyên nhân câu sai (từ vựng / bẫy / thời gian).
+#### 🎯 Thứ 5 (08/10/2026) — Listening Baseline (45 Phút)
+- [ ] **Khung giờ thực hiện hôm nay:** `___:___` đến `___:___` *(Xác định trước để vào bàn học ngay lập tức)*.
+- [ ] **30 phút làm bài:** Test Listening Cam 18/19 — Kết quả: `___/40`.
+- [ ] **15 phút phân loại lỗi sai:**
+  - Thiếu hụt từ vựng (*lexical deficit*): Các câu số: `__________`
+  - Lỗi nhận diện âm (*phonological error - nuốt âm/nối âm*): Các câu số: `__________`
+  - Nhiễu thông tin (*distractor - dính bẫy đề thi*): Các câu số: `__________`
 
-#### 🎯 Thứ 6 (09/10/2026) — Từ Vựng Học Thuật & Shadowing
-- [ ] Đọc 1 bài nghiên cứu chuyên ngành, ghi chú 5 mẫu câu lập luận đắt giá.
-- [ ] Luyện Shadowing 1 video TED Talks (10–15 phút), tập trung bật rõ âm đuôi /s/, /ed/.
+#### 🎯 Thứ 6 (09/10/2026) — Reading Keyword Mapping (45 Phút)
+- [ ] **20 phút làm bài:** Xử lý 1 Passage 3 Cam 18/19 với kỹ thuật Keyword Mapping.
+- [ ] **25 phút mổ xẻ:** Trích xuất 5–7 cụm từ học thuật và các mẫu câu liên kết logic (*cohesion*).
 
-#### 🎯 Thứ 7 (10/10/2026) — Luyện Viết Writing Task 1
-- [ ] Viết bài 1 (Line Graph) — Hoàn thành trong 20 phút.
-- [ ] Viết bài 2 (Bar Chart) — Tập trung cô lập xu hướng vĩ mô và điểm kỳ dị.
+#### 🎯 Thứ 7 (10/10/2026) — Writing Task 1 Báo Cáo Dữ Liệu (45 Phút)
+- [ ] **15 phút phân tích:** Xác định Macro Trends (Overview) & Outliers (Cực trị).
+- [ ] **30 phút viết bài:** Hoàn thành báo cáo khách quan, không dùng tính từ cảm tính.
 
-#### 🎯 Chủ Nhật (11/10/2026) — Ghi Âm Speaking & Đồng Bộ Anki
-- [ ] Ghi âm 20 phút Speaking Part 1 & 2.
-- [ ] Nghe lại bản ghi âm và ghi chú 3 điểm yếu cần cải thiện tuần sau.
-- [ ] Thêm từ mới trong tuần vào Anki và hoàn thành review thẻ hôm nay.
+#### 🎯 Chủ Nhật (11/10/2026) — Speaking Part 2 & Đồng Bộ SRS (50 Phút)
+- [ ] **20 phút thu âm:** Trả lời liên tục 1 đề Part 2 (không dừng sửa lỗi).
+- [ ] **30 phút tổng duyệt:** Phân tích bản thu âm + Đồng bộ toàn bộ từ vựng & lỗi sai vào Anki.
 
 ---
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan (Knowledge Network)
 
-- 🎯 **Lộ trình dài hạn:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Định vị giai đoạn học hiện tại)*
-- 🌐 **Kho tài liệu:** [[resources-learning-tools|Tổng hợp website & công cụ luyện đề]] *(Web thi thử, Simon Writing, TED)*
-- 💡 **Tâm lý & Chiến lược:** [[mindset-study-motivation|Kỷ luật học tập & Vượt qua sức ì]] *(Quy tắc 10 phút, chia nhỏ con voi)*
-
+- 🎯 **Lộ trình dài hạn:** [[roadmap-5.0-to-7.5|Lộ trình tổng thể 5.0 lên 7.5]] *(Mục tiêu Listening 8.0-8.5)*
+- 🌐 **Nguồn đề thi:** [[resources-learning-tools|Kho tài liệu luyện đề]] *(Truy cập bộ đề Cambridge 18/19)*
+- 💡 **Kỷ luật tâm lý:** [[mindset-study-motivation|Chiến lược giữ lửa học tập]] *(Kiểm soát ma sát, nỗ lực tối thiểu 10 phút)*
