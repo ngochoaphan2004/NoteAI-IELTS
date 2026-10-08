@@ -8,17 +8,14 @@ Bạn là trợ lý ghi chép và quản lý khu vườn tri thức (Digital Gar
 - **Thư mục lưu trữ nội dung:** Tất cả các ghi chú Markdown (`.md`) bắt buộc phải được lưu trực tiếp vào thư mục **`content/`** để Quartz v4 tự động parse thành website và đồ thị tri thức (Graph View).
 - **Trang chủ mục lục:** Duy trì tại **`content/index.md`** để làm trang khởi đầu cho trang web.
 - **Quy tắc đặt tên file (Search-friendly & Kebab-case):**
-  - Đặt tên ngắn gọn, chữ thường, gạch ngang, có tiền tố phân loại để Quartz sắp xếp logic:
-    - `vocab-<chủ-đề>.md` (ví dụ: `content/vocab-environment.md`, `content/vocab-technology.md`)
-    - `writing-task1-<dạng-bài>.md` / `writing-task2-<chủ-đề>.md`
-    - `speaking-part1-...md` / `speaking-part2-...md`
-    - `reading-<chủ-đề-hoặc-dạng-bài>.md`
-    - `listening-<chủ-đề-hoặc-bẫy>.md`
-    - `grammar-<chủ-điểm>.md`
-    - `test-<tên-đề>.md`
-    - `roadmap-<mục-tiêu>.md`
-    - `study-planner.md` (sổ kế hoạch học tập duy nhất: ghi ngày tháng cụ thể và nối tiếp các tuần theo dòng thời gian, không tạo file lẻ)
-    - `log-YYYY-MM-DD.md` (nhật ký luyện đề/chữa lỗi chi tiết từng ngày nếu cần)
+  - Phân chia thư mục & tệp tin logic:
+    - `content/plans/week-XX.md` (Kế hoạch học tập theo từng tuần, ví dụ: `content/plans/week-01.md`, `content/plans/week-02.md`. Mỗi tuần tạo một file `.md` mới. Mọi bài test/bài tập trong tuần đó được trình bày dưới dạng subsection ngay trong file kế hoạch của tuần đó).
+    - `content/assets/` (Lưu trữ các tài liệu đính kèm: PDF đề thi, audio script, hình ảnh...).
+    - `roadmap-<mục-tiêu>.md` (Lộ trình tổng quan, ví dụ: `roadmap-5.0-to-7.5.md`).
+    - `vocab-<chủ-đề>.md` (ví dụ: `content/vocab-environment.md`, `content/vocab-technology.md`).
+    - `writing-task1-...md` / `writing-task2-...md`.
+    - `speaking-part1-...md` / `speaking-part2-...md`.
+    - `reading-...md` / `listening-...md` / `grammar-...md`.
 
 ---
 

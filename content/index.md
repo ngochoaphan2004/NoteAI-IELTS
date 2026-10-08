@@ -6,17 +6,16 @@ Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự đ
 
 ## 📌 Danh mục ghi chú
 
-### 🎯 Lộ Trình & Mục Tiêu (Roadmap)
-- [Sổ Kế Hoạch & Lịch Trình Học Tập](./study-planner.md) — *Lịch trình chi tiết từng ngày và từng tuần (có ngày tháng cụ thể, theo dõi tiến độ)*
-- [Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5](./roadmap-5.0-to-7.5.md) — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu*
+### 🗓️ Kế Hoạch Học Tập Theo Tuần (Weekly Study Plans)
+- [Kế Hoạch Tuần 1: 08/10 – 11/10/2026](./plans/week-01.md) — *Lịch trình 4 ngày (Thứ 5 – Chủ Nhật, 45-50p/ngày): Listening Baseline, Reading Keyword Mapping, Writing Task 1, Speaking Part 2. Bao gồm subsection: Bài làm Cambridge 18 Test 1 Listening (nhúng PDF đề + script + bảng 40 câu đáp án).*
 
-### 📊 Nhật Ký Luyện Đề (Mock Tests & Logs)
-- [Cambridge 18 Test 1 Listening (Bài Làm)](./test-cam18-test1-listening.md) — *Lưu trữ 40 câu bài làm thực tế kèm không gian để tự đối soát và ghi chú lỗi sai*
+### 🎯 Lộ Trình & Mục Tiêu (Roadmaps)
+- [Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5](./roadmap-5.0-to-7.5.md) — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu.*
 
 ### 🌐 Tài Nguyên & Công Cụ (Resources & Tools)
-- [Tổng hợp Website & Công cụ Luyện thi IELTS](./resources-learning-tools.md) — *Mock test (IELTS Online Tests, Mini-ielts), nguồn luyện 4 kỹ năng (Simon, TED-Ed, The Guardian...), từ điển và blog tham khảo*
+- [Tổng hợp Website & Công cụ Luyện thi IELTS](./resources-learning-tools.md) — *Mock test (IELTS Online Tests, Mini-ielts), nguồn luyện 4 kỹ năng (Simon, TED-Ed, The Guardian...), từ điển và blog tham khảo.*
 
 ---
 
 > [!TIP]
-> Bạn chỉ cần gửi nội dung vào khung chat (ví dụ: *"Note lại từ vựng chủ đề Environment"*, *"Lưu dàn ý Writing Task 2 này"*...), file tương ứng sẽ được tự động tạo và cập nhật ngay vào danh mục trên.
+> Bạn chỉ cần gửi nội dung vào khung chat (ví dụ: *"Tạo kế hoạch tuần 2"*, *"Note lại từ vựng chủ đề Environment"*...), file tương ứng sẽ được tự động tạo và cập nhật ngay vào danh mục trên.
