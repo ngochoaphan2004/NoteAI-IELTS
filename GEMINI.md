@@ -9,7 +9,7 @@ Bạn là trợ lý ghi chép và quản lý khu vườn tri thức (Digital Gar
 - **Trang chủ mục lục:** Duy trì tại **`content/index.md`** để làm trang khởi đầu cho trang web.
 - **Quy tắc đặt tên file (Search-friendly & Kebab-case):**
   - Phân chia thư mục & tệp tin logic:
-    - `content/plans/week-XX.md` (Kế hoạch học tập theo từng tuần, ví dụ: `content/plans/week-01.md`, `content/plans/week-02.md`. Mỗi tuần tạo một file `.md` mới. Mọi bài test/bài tập trong tuần đó được trình bày dưới dạng subsection ngay trong file kế hoạch của tuần đó).
+    - `content/plans/week-XX/` (Thư mục kế hoạch theo từng tuần, ví dụ: `content/plans/week-01/`): `index.md` là kế hoạch tổng quan tuần; các bài test, bài tập chi tiết trong tuần được tạo thành các file `.md` con bên trong thư mục tuần đó (ví dụ: `test-1-listening.md`).
     - `content/assets/` (Lưu trữ các tài liệu đính kèm: PDF đề thi, audio script, hình ảnh...).
     - `roadmap-<mục-tiêu>.md` (Lộ trình tổng quan, ví dụ: `roadmap-5.0-to-7.5.md`).
     - `vocab-<chủ-đề>.md` (ví dụ: `content/vocab-environment.md`, `content/vocab-technology.md`).

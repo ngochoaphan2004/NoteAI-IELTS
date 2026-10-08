@@ -109,4 +109,4 @@ Chiến lược an toàn và tối ưu nhất cho người học Việt Nam là:
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan (Knowledge Network)
 
 - 🌐 **Công cụ & Web luyện thi:** [[resources-learning-tools|Tổng Hợp Website & Công Cụ]] *(Nơi luyện đề thi thử IELTS Online Tests, Mini-ielts, TED Talks, Simon Writing)*
-- 📅 **Kế hoạch học tập tuần 1:** [[plans/week-01|Kế hoạch Tuần 1 (08/10 – 11/10/2026)]] *(Lịch trình hành động chi tiết)*
+- 📅 **Kế hoạch học tập tuần 1:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]] *(Lịch trình hành động chi tiết)*

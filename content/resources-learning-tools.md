@@ -69,6 +69,6 @@ tags:
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan (Knowledge Network)
 - 🎯 **Lộ trình áp dụng:** [[roadmap-5.0-to-7.5|Lộ Trình Từ 5.0 Lên 7.5]] *(Xem chi tiết các giai đoạn áp dụng các tài liệu này)*
-- 📅 **Kế hoạch học tập:** [[plans/week-01|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]] *(Kế hoạch thực thi 4 ngày)*
+- 📅 **Kế hoạch học tập:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]] *(Kế hoạch thực thi 4 ngày)*
 
 
