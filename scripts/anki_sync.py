@@ -257,16 +257,22 @@ def sync_via_ankiconnect(vocab_list):
     existing_words = set()
     if existing_cards:
         notes_info = anki_connect_invoke("notesInfo", notes=existing_cards)
-        for n in notes_info:
-            fields = n.get("fields", {})
-            if "Word" in fields:
-                existing_words.add(fields["Word"]["value"].strip().lower())
-            elif "Front" in fields:
-                existing_words.add(fields["Front"]["value"].strip().lower())
+        if notes_info and isinstance(notes_info, list):
+            for n in notes_info:
+                fields = n.get("fields", {})
+                for f_name in ["Word", "Front"]:
+                    if f_name in fields:
+                        val = fields[f_name]["value"]
+                        clean_text = re.sub(r"<[^>]+>", " ", val).strip().lower()
+                        tokens = [t.strip() for t in clean_text.split() if t.strip()]
+                        if tokens:
+                            existing_words.add(tokens[0])
+                        existing_words.add(clean_text)
 
     notes_to_add = []
     for v in vocab_list:
-        if v["word"].lower() in existing_words:
+        w = v["word"].lower().strip()
+        if w in existing_words:
             continue
         note = {
             "deckName": DECK_NAME,
@@ -281,8 +287,11 @@ def sync_via_ankiconnect(vocab_list):
 
     if notes_to_add:
         res = anki_connect_invoke("addNotes", notes=notes_to_add)
-        added_count = sum(1 for r in res if r is not None)
-        print(f"-> Đã thêm {added_count} thẻ mới vào deck '{DECK_NAME}'.")
+        if res and isinstance(res, list):
+            added_count = sum(1 for r in res if r is not None)
+            print(f"-> Đã thêm {added_count} thẻ mới vào deck '{DECK_NAME}'.")
+        else:
+            print("-> Thẻ đã tồn tại hoặc đã được nạp.")
     else:
         print("-> Tất cả từ vựng đã tồn tại trong deck, không có thẻ trùng lặp.")
 

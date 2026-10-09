@@ -204,3 +204,4 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 
 - 📅 **Kế hoạch học tập:** [[plans/week-01/|Kế Hoạch Tuần Hiện Tại]]
 - 🌐 **Tài liệu & Công cụ:** [[resources-learning-tools|Kho tài liệu luyện đề & công cụ hỗ trợ]]
+
