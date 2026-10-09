@@ -153,5 +153,6 @@ tags:
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan
 
 - 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
+- 📖 **Sổ tay từ vựng:** [[plans/week-01/vocab-test-1-listening|Từ Vựng Cốt Lõi Test 1 Listening (Cam 18)]]
 
 

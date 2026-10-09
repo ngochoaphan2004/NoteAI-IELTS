@@ -58,6 +58,7 @@ tags:
 ## 🔗 3. Mạng Lưới Kiến Thức Liên Quan
 
 - 🎧 **Bài làm trong tuần:** [[plans/week-01/test-1-listening|Bài Làm Test 1 Listening (Cam 18)]]
+- 📖 **Từ vựng trong tuần:** [[plans/week-01/vocab-test-1-listening|Từ Vựng Cốt Lõi Test 1 Listening (Cam 18)]]
 - 🎯 **Lộ trình tổng thể:** [[roadmap-5.0-to-7.5|Lộ trình 5.0 lên 7.5 (Listening & Reading 8.0+)]]
 - 🌐 **Tài nguyên học tập:** [[resources-learning-tools|Kho tài liệu luyện đề & công cụ hỗ trợ]]
 
