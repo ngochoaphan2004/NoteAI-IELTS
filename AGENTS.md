@@ -35,24 +35,22 @@ Bộ quy tắc dưới đây là **bắt buộc** và có hiệu lực xuyên su
 
 ---
 
-## 3. 🏷️ Quy Chuẩn Frontmatter & Tiêu Đề Tiếng Việt
-* **Tiêu đề hiển thị thân thiện:** Mọi file Markdown (`.md`) trong `content/` **bắt buộc** phải có trường `title:` trong YAML Frontmatter bằng **Tiếng Việt rõ nghĩa, dễ đọc**.
-  - *Ví dụ đúng:* `title: "Kế hoạch Tuần 1 (Thứ 5 - Chủ Nhật)"`, `title: "Listening Test 1 - Cam 18"`, `title: "Tài liệu & Công cụ học tập"`.
-  - *Cấm:* Không để trống `title` khiến thanh điều hướng / Explorer hiển thị slug thô tiếng Anh như `resources-learning-tools` hay `roadmap-5.0-to-7.5`.
-* **Tags & Metadata:** Đầu trang có đầy đủ tags phân loại (ví dụ: `#ielts`, `#listening`, `#cambridge18`, `#week-01`...).
+## 3. 🏷️ Quy Chuẩn Schema YAML Frontmatter Nghiêm Ngặt
+Mọi file Markdown (`.md`) trong `content/` **bắt buộc** phải tuân thủ nghiêm ngặt Schema:
+* **`title:`** Bắt buộc, chuỗi Tiếng Việt rõ nghĩa, thân thiện (ví dụ: `title: "Kế hoạch Tuần 1 (08/10 – 11/10)"`, `title: "Bài Làm Test 1 Listening (Cam 18)"`). Tuyệt đối không để trống.
+* **`aliases:`** Bắt buộc đối với các tài liệu bài học, từ vựng, ngữ pháp để hỗ trợ tìm kiếm và liên kết chéo (ví dụ: các từ đồng nghĩa, dạng biến thể chia động từ, hoặc slug tiếng Anh như `[vocab-test-1-listening, cam18-vocab]`).
+* **`tags:`** Danh sách ít nhất 1 tag phân loại: kỹ năng (`listening`, `reading`), nguồn đề (`cambridge18`), tuần học (`week-01`), và cấp độ CEFR (`b2`, `c1`, `c2`) nếu là tài liệu từ vựng/ngữ pháp.
+* **`sr-due:`** Định dạng `YYYY-MM-DD` đối với tài liệu từ vựng/ôn tập để tích hợp thuật toán Spaced Repetition (Lặp lại ngắt quãng).
 
 ---
 
-## 4. 🕸️ Quy Chuẩn Phân Cấp Liên Kết Mạng Lưới (Graph Interlinking Scoping)
-Để đảm bảo Interactive Graph View trực quan, khoa học và không bị rác liên kết:
-* **Node lá (Leaf Node - Bài test chi tiết):**
-  - Các bài test thực hành chi tiết (như `test-1-listening.md`) **CHỈ ĐƯỢC liên kết ngược về trang tuần cha của nó** (`plans/week-XX/index.md`).
-  - **Tuyệt đối không** gắn link trực tiếp từ bài test chi tiết tới `roadmap` hoặc `index.md` chính.
-* **Node vĩ mô (`index.md`, `plans/index.md`):**
-  - Chỉ liên kết tới cấp tuần (`week-01`, `week-02`), **không** gắn link chi tiết vào từng bài test con.
-* **Cú pháp liên kết Quartz & Obsidian:**
-  - Dùng cú pháp `[[tên-file-không-đuôi]]` hoặc Markdown link `[Tiêu đề](./ten-file.md)`.
-  - Cuối mỗi file có mục `## 🔗 Mạng Lưới Liên Quan` tuân thủ đúng phạm vi phân cấp trên.
+## 4. 🕸️ Semantic Linking & Phân Cấp Mạng Lưới (Knowledge Graph)
+Để Interactive Graph View và Backlinks của Quartz trực quan, kết nối chặt chẽ và không bị rác hay đứt gãy:
+* **Tự động hóa Semantic Linking:** Khi tạo hoặc cập nhật file ghi chú mới, hệ thống tự động quét nhận diện các khái niệm/từ vựng học thuật đã có trong khu vườn tri thức và chèn liên kết dạng `[[Wikilinks]]` trỏ về ghi chú liên quan.
+* **Quy chuẩn phân cấp chặt chẽ:**
+  - **Node lá (Leaf Node - Bài test chi tiết):** Các bài test thực hành chi tiết (như `test-1-listening.md`) **CHỈ ĐƯỢC liên kết ngược về trang tuần cha của nó** (`plans/week-XX/index.md`). Tuyệt đối không trỏ trực tiếp tới `roadmap` hoặc `index.md` chính.
+  - **Node vĩ mô (`index.md`, `plans/index.md`):** Chỉ liên kết tới cấp tuần (`week-01`, `week-02`), không gắn link chi tiết vào từng bài test con.
+* **Cú pháp liên kết:** Dùng `[[tên-slug]]` hoặc `[[tên-slug|tiêu đề hiển thị]]`. Cuối mỗi file luôn có mục `## 🔗 Mạng Lưới Kiến Thức Liên Quan`.
 
 ---
 
@@ -69,17 +67,22 @@ Bộ quy tắc dưới đây là **bắt buộc** và có hiệu lực xuyên su
 
 ---
 
-## 7. ⚡ Quy Trình Tự Động Hóa (Automation & Git Workflow)
-Mỗi khi tiếp nhận thông tin hoặc cập nhật ghi chú từ người học, trợ lý **tự động thực hiện toàn bộ các bước sau mà không cần chờ nhắc**:
-1. **Phân loại & Định dạng:** Tạo mới hoặc cập nhật file Markdown theo chuẩn Frontmatter và Kebab-case.
-2. **Cập nhật Điều Hướng:** Cập nhật liên kết vào `index.md` của tuần hoặc `content/index.md` nếu cần.
-3. **Tự động Git Commit & Push:**
-   - Chạy `git add content/` (và các file cấu hình liên quan nếu có chỉnh sửa).
-   - Commit với thông điệp rõ ràng:
-     - Tạo mới: `docs: add note <tên-file>`
-     - Cập nhật: `docs: update note <tên-file>`
-   - Chạy `git push origin main` để đẩy lên GitHub Repository, kích hoạt GitHub Actions tự động build website.
-4. **Phản hồi ngắn gọn:** Thông báo cho người dùng tên file, tóm tắt thay đổi và xác nhận git push thành công.
+## 7. 🛡️ Pipeline Kiểm Chứng (Formal Verification Pipeline) & Tự Động Hóa Git
+Trước khi thực hiện Git commit & push, trợ lý **BẮT BUỘC chạy pipeline kiểm chứng toàn diện qua lệnh**:
+```bash
+python scripts/run_pipeline.py
+```
+Pipeline kiểm chứng tự động thực hiện 4 chặng:
+1. **Kiểm tra Schema Frontmatter & Broken Link Checker:** Xác minh 100% tài liệu đủ frontmatter và **KHÔNG CÓ BẤT KỲ DEAD LINK NÀO** (nếu phát hiện link trỏ tới file không tồn tại, lập tức dừng commit và báo lỗi).
+2. **Markdown Linter (`markdownlint-cli`):** Đảm bảo định dạng chuẩn mực, bảng không nhảy cột, cú pháp tương thích Quartz.
+3. **Đồng bộ Anki Master Deck:** Tự động nạp từ vựng mới vào `IELTS - NoteAI Master Deck` và push AnkiWeb.
+4. **Kiểm thử biên dịch Quartz (`npx quartz build`):** Xác nhận website build thành công 100%.
+
+**Sau khi Pipeline vượt qua hoàn toàn:**
+- Chạy `git add content/ scripts/` (và các file cấu hình liên quan).
+- Commit với thông điệp chuẩn: `docs: add note <tên-file>` hoặc `docs: update note <tên-file>`.
+- Chạy `git push origin main` để cập nhật website trực tuyến.
+- Báo cáo kết quả kiểm chứng và xác nhận git push thành công cho người dùng.
 
 ---
 

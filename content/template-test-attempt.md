@@ -106,6 +106,7 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 ## 📋 Bảng Ghi Nhận Bài Làm & Đối Soát Chi Tiết (40 Câu)
 
 ### 🔹 Phần 1 / Part 1 (Questions 1 – 10)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Phân Tích Bẫy |
 | :---: | :--- | :--- | :---: | :--- |
 | **1** | | | | |
@@ -124,6 +125,7 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 ---
 
 ### 🔹 Phần 2 / Part 2 (Questions 11 – 20)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Phân Tích Bẫy & Paraphrase |
 | :---: | :--- | :--- | :---: | :--- |
 | **11** | | | | |
@@ -142,6 +144,7 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 ---
 
 ### 🔹 Phần 3 / Part 3 (Questions 21 – 30)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Phân Tích Bẫy |
 | :---: | :--- | :--- | :---: | :--- |
 | **21** | | | | |
@@ -160,6 +163,7 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 ---
 
 ### 🔹 Phần 4 / Part 4 (Questions 31 – 40)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Phân Tích Bẫy |
 | :---: | :--- | :--- | :---: | :--- |
 | **31** | | | | |
@@ -180,23 +184,26 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 ## 📊 Báo Cáo Đánh Giá & Phân Tích Năng Lực (Diagnostic Report)
 
 ### 1. Tổng Kết Điểm Số
-* **Số câu thực tế làm lúc thi:** `... / 40 câu`
-* **Số câu làm đúng:** `... / 40 câu`
-* **Ước lượng IELTS Band Score:** `Band ...`
+
+- **Số câu thực tế làm lúc thi:** `... / 40 câu`
+- **Số câu làm đúng:** `... / 40 câu`
+- **Ước lượng IELTS Band Score:** `Band ...`
 
 ---
 
 ### 2. Phân Tích Lỗi Sai & Bẫy Cần Chú Ý
-* **Lỗi phát âm / Bẫy số (Numbers & Spelling):**
-* **Lỗi ngữ pháp & Giới hạn từ (Word Count Limit):**
-* **Bẫy thông tin gây nhiễu (Distractors):**
-* **Từ đồng nghĩa & Diễn đạt lại (Paraphrase & Synonyms):**
+
+- **Lỗi phát âm / Bẫy số (Numbers & Spelling):**
+- **Lỗi ngữ pháp & Giới hạn từ (Word Count Limit):**
+- **Bẫy thông tin gây nhiễu (Distractors):**
+- **Từ đồng nghĩa & Diễn đạt lại (Paraphrase & Synonyms):**
 
 ---
 
 ### 3. Kế Hoạch Rèn Luyện Sau Bài Test (Action Plan)
-* [ ] Nghe lại / Đọc lại các đoạn chứa câu trả lời sai kèm script.
-* [ ] Trích xuất các từ vựng cốt lõi vào sổ tay từ vựng và đồng bộ Anki.
+
+- [ ] Nghe lại / Đọc lại các đoạn chứa câu trả lời sai kèm script.
+- [ ] Trích xuất các từ vựng cốt lõi vào sổ tay từ vựng và đồng bộ Anki.
 
 ---
 
@@ -204,4 +211,3 @@ Khi gửi bài làm cho AI để tự động tạo bảng đối soát, bạn c
 
 - 📅 **Kế hoạch học tập:** [[plans/week-01/|Kế Hoạch Tuần Hiện Tại]]
 - 🌐 **Tài liệu & Công cụ:** [[resources-learning-tools|Kho tài liệu luyện đề & công cụ hỗ trợ]]
-

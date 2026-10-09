@@ -1,13 +1,18 @@
 ---
 title: "Từ Vựng Test 1 Listening (Cam 18)"
+aliases:
+  - vocab-test-1-listening
+  - vocab-cam18-test1
+  - cam18-vocab
 tags:
   - ielts
   - vocabulary
   - listening
   - cambridge18
   - week-01
+  - b2-c1
+sr-due: "2026-10-10"
 ---
-
 # 📚 Sổ Tay Từ Vựng: Cambridge 18 - Test 1 Listening
 
 > **Nguồn trích xuất:** Audio Script & Đề bài `Cambridge 18 - Test 1 Listening`  
@@ -37,25 +42,31 @@ tags:
 ## 🔍 Phân Tích Ngữ Cảnh & Cặp Từ Paraphrase Đắt Giá
 
 ### 1. Cụm Thành Ngữ: `An uphill struggle`
+>
 > [!NOTE]
+>
 > * **Nguồn gốc & Ý nghĩa:** Xuất phát từ hình ảnh leo một con dốc cao gập ghềnh (*uphill*). Khi dùng làm ẩn dụ, cụm từ này miêu tả một mục tiêu hoặc công việc cực kỳ khó nhọc, đòi hỏi nỗ lực phi thường mới vượt qua được.
 > * **Ví dụ IELTS Speaking/Writing:**  
 >   *"Rehabilitating orphaned animals in the wild is often an uphill struggle."* (Việc phục hồi cho động vật mồ côi ngoài tự nhiên thường là một cuộc chiến đầy gian nan).
 
 ### 2. Từ Học Thuật C1: `Vulnerable`
+>
 > [!TIP]
+>
 > * **Gia đình từ (Word Family):**
->   - Danh từ: **vulnerability** `/ˌvʌlnərəˈbɪləti/` (tính dễ bị tổn thương).
->   - Trái nghĩa: **invulnerable** `/ɪnˈvʌlnərəbl/` (bất khả xâm phạm, không thể bị hại).
+>   * Danh từ: **vulnerability** `/ˌvʌlnərəˈbɪləti/` (tính dễ bị tổn thương).
+>   * Trái nghĩa: **invulnerable** `/ɪnˈvʌlnərəbl/` (bất khả xâm phạm, không thể bị hại).
 > * **Collocation hay gặp trong đề thi:**
->   - *vulnerable children / patients* (trẻ em / bệnh nhân yếu thế).
->   - *vulnerable to climate change* (dễ bị tổn thương trước biến đổi khí hậu).
+>   * *vulnerable children / patients* (trẻ em / bệnh nhân yếu thế).
+>   * *vulnerable to climate change* (dễ bị tổn thương trước biến đổi khí hậu).
 
 ### 3. Cặp Paraphrase Thi Nghe: `Theatrical` & `Stage`
+>
 > [!WARNING]
+>
 > * Trong đề thi Listening Part 2 (câu 19):  
->   - **Phương án đề bài:** *Experience on stage*  
->   - **Transcript audio nhắc tới:** *acting, drama, theatrical activities*  
+>   * **Phương án đề bài:** *Experience on stage*  
+>   * **Transcript audio nhắc tới:** *acting, drama, theatrical activities*  
 >   -> Luôn ghi nhớ tính từ **theatrical** mang nghĩa trực tiếp liên quan đến sân khấu/kịch nghệ.
 
 ---
@@ -76,6 +87,5 @@ tags:
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan
 
-- 🎧 **Bài làm kiểm tra:** [[plans/week-01/test-1-listening|Bài Làm Test 1 Listening (Cam 18)]]
-- 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
-
+* 🎧 **Bài làm kiểm tra:** [[plans/week-01/test-1-listening|Bài Làm Test 1 Listening (Cam 18)]]
+* 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]

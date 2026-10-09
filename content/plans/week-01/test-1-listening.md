@@ -38,6 +38,7 @@ tags:
 ## 📋 Bảng Ghi Nhận Bài Làm & Đối Soát Chi Tiết (40 Câu)
 
 ### 🔹 Part 1 (Questions 1 – 10)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Phân Tích Bẫy |
 | :---: | :--- | :--- | :---: | :--- |
 | **1** | `dw137yz` | `dw307yz` | ❌ | **Bẫy số:** Nghe nhầm âm đuôi `13` (-teen) với `30` (-ty). |
@@ -56,6 +57,7 @@ tags:
 ---
 
 ### 🔹 Part 2 (Questions 11 – 20)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Phân Tích Bẫy & Paraphrase |
 | :---: | :--- | :--- | :---: | :--- |
 | **11** | `b` | `c` | ❌ | **Paraphrase:** *"a bit squashed"* = chỗ ngồi bị xếp sát nhau, chật chội. |
@@ -74,6 +76,7 @@ tags:
 ---
 
 ### 🔹 Part 3 (Questions 21 – 30)
+
 | STT | Bài Làm Lúc Thi | Đáp Án Chính Thức | Kết Quả | Ghi Chú Lỗi Sai / Đối Chiếu |
 | :---: | :--- | :--- | :---: | :--- |
 | **21** | `a` | `a` | ✅ | Bắt đúng thái độ / phản ứng ban đầu của Hugo về độ khốc liệt của thị trường việc làm thời trang. |
@@ -92,6 +95,7 @@ tags:
 ---
 
 ### 🔹 Part 4 (Questions 31 – 40)
+
 *(Toàn bộ Part 4 bỏ trống lúc làm bài thi do không kịp tốc độ; dưới đây là bảng lưu trữ đáp án đối chiếu để phục vụ quá trình học tập và phân tích transcript)*
 
 | STT | Bài Làm Lúc Thi | Đáp Án Đối Soát | Kết Quả | Ghi Chú Phân Tích Nội Dung |
@@ -114,6 +118,7 @@ tags:
 ## 📊 Báo Cáo Đánh Giá Thực Tế (Baseline Diagnostic Report)
 
 ### 1. Tổng Kết Điểm Số
+
 * **Số câu thực tế làm lúc thi:** **`18 / 40 câu`**
 * **Số câu làm đúng:** **`12 / 18 câu`** (Đạt độ chính xác **`66.7%`** trên số câu làm được)
 * **Tổng số câu đúng trên bài thi:** **`12 / 40 câu`**
@@ -122,19 +127,21 @@ tags:
 ---
 
 ### 2. Phân Tích Năng Lực & Thực Trạng
+
 1. **Độ chính xác tương đối tốt ở các câu làm được (Part 1 & 2):**
-   - Khi có đủ thời gian nghe và bắt kịp mạch, bạn làm đúng 6/10 câu ở Part 1 và 4 câu ở Part 2.
-   - Bạn có tư duy ghi chú và tự phân tích paraphrase rất xuất sắc (các ghi chú về *squashed*, *continuous training*, *dedication = commitment*, *fundraising creativity*).
+   * Khi có đủ thời gian nghe và bắt kịp mạch, bạn làm đúng 6/10 câu ở Part 1 và 4 câu ở Part 2.
+   * Bạn có tư duy ghi chú và tự phân tích paraphrase rất xuất sắc (các ghi chú về *squashed*, *continuous training*, *dedication = commitment*, *fundraising creativity*).
 2. **Khó khăn về Tốc độ & Khả năng duy trì mạch nghe (Pacing & Endurance):**
-   - Từ giữa Part 2 (câu 16) trở đi, đặc biệt là Part 3 (bỏ trống 7 câu) và Part 4 (bỏ trống toàn bộ 10 câu), bạn gặp áp lực lớn về tốc độ nói nhanh và không kịp đọc trước câu hỏi dẫn đến bị trôi mạch nghe.
-   - Đây là thực trạng rất tự nhiên ở giai đoạn Baseline (mức khởi điểm).
+   * Từ giữa Part 2 (câu 16) trở đi, đặc biệt là Part 3 (bỏ trống 7 câu) và Part 4 (bỏ trống toàn bộ 10 câu), bạn gặp áp lực lớn về tốc độ nói nhanh và không kịp đọc trước câu hỏi dẫn đến bị trôi mạch nghe.
+   * Đây là thực trạng rất tự nhiên ở giai đoạn Baseline (mức khởi điểm).
 3. **Các lỗi kỹ thuật làm bài:**
-   - **Bẫy số & phát âm:** Câu 1 nhầm `-teen` vs `-ty` (`13` vs `30`), câu 2 nhầm ngày `14` vs `24` và quên ghi tên tháng `April`.
-   - **Giới hạn số từ:** Câu 6 điền thừa từ (`late 10 minutes` thay vì `late` theo quy định *ONE WORD ONLY*).
+   * **Bẫy số & phát âm:** Câu 1 nhầm `-teen` vs `-ty` (`13` vs `30`), câu 2 nhầm ngày `14` vs `24` và quên ghi tên tháng `April`.
+   * **Giới hạn số từ:** Câu 6 điền thừa từ (`late 10 minutes` thay vì `late` theo quy định *ONE WORD ONLY*).
 
 ---
 
 ### 3. Kế Hoạch Cải Thiện Cho Các Tuần Tiếp Theo
+
 * [ ] **Luyện drill phản xạ số & ngày tháng:** 10-15 phút/ngày để phân biệt dứt khoát âm nhấn đuôi `-TEEN` (kéo dài) vs `-TY` (ngắn).
 * [ ] **Tập kỹ thuật đọc đề trước (Pre-reading):** Dành 30 giây gạch chân từ khóa cố định trước mỗi section để không bị mất dấu khi băng chạy.
 * [ ] **Tập luyện nghe Part 4 có transcript:** Đọc theo lời thoại (Shadowing) và làm quen với tốc độ bài giảng học thuật.
@@ -143,5 +150,5 @@ tags:
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan
 
-- 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
-- 📖 **Sổ tay từ vựng:** [[plans/week-01/vocab-test-1-listening|Từ Vựng Cốt Lõi Test 1 Listening (Cam 18)]]
+* 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
+* 📖 **Sổ tay từ vựng:** [[plans/week-01/vocab-test-1-listening|Từ Vựng Cốt Lõi Test 1 Listening (Cam 18)]]

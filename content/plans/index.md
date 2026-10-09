@@ -1,5 +1,12 @@
 ---
 title: "Kế Hoạch Học Tập"
+aliases:
+  - study-plans
+  - plans
+tags:
+  - plans
+  - study-planner
+  - ielts
 ---
 
 # 🗓️ Kế Hoạch Học Tập Theo Tuần (Weekly Study Plans)

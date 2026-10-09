@@ -1,5 +1,11 @@
 ---
 title: "Trang Chủ"
+aliases:
+  - home
+tags:
+  - index
+  - home
+  - ielts
 ---
 
 # 📚 IELTS Study Notes - Index
@@ -11,12 +17,15 @@ Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự đ
 ## 📌 Danh mục ghi chú
 
 ### 🗓️ Kế Hoạch Học Tập Theo Tuần (Weekly Study Plans)
+
 - [[plans/week-01/|Kế Hoạch Tuần 1: 08/10 – 11/10/2026]] — *Lịch trình 4 ngày (Thứ 5 – Chủ Nhật, 45-50p/ngày): Listening Baseline, Reading Keyword Mapping, Writing Task 1, Speaking Part 2.*
 
 ### 🎯 Lộ Trình & Mục Tiêu (Roadmaps)
+
 - [Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5](./roadmap-5.0-to-7.5.md) — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu.*
 
 ### 🌐 Tài Nguyên & Công Cụ (Resources & Tools)
+
 - [Tổng hợp Website & Công cụ Luyện thi IELTS](./resources-learning-tools.md) — *Mock test (IELTS Online Tests, Mini-ielts), nguồn luyện 4 kỹ năng (Simon, TED-Ed, The Guardian...), từ điển và blog tham khảo.*
 
 ---

@@ -1,5 +1,8 @@
 ---
 title: "Lộ Trình Từ 5.0 Lên 7.5"
+aliases:
+  - roadmap
+  - roadmap-5.0-to-7.5
 tags:
   - roadmap
   - band7plus
@@ -29,6 +32,7 @@ Chiến lược an toàn và tối ưu nhất cho người học Việt Nam là:
 | 🏆 **OVERALL** | **7.5** | $\frac{8.5 + 8.5 + 6.5 + 6.5}{4} = 7.5$ (hoặc $\frac{8.0 + 8.0 + 7.0 + 7.0}{4} = 7.5$) |
 
 > [!NOTE]
+>
 > - Nếu bạn đang ở mức **dưới 5.0**: Hãy cộng thêm 1 – 1.5 tháng cho Giai đoạn 1.
 > - Nếu bạn đã có sẵn nền tảng **6.0**: Có thể bỏ qua GĐ 1 và bắt đầu ngay từ Giai đoạn 2 hoặc 3.
 
@@ -37,6 +41,7 @@ Chiến lược an toàn và tối ưu nhất cho người học Việt Nam là:
 ## 📅 2. Chi Tiết 4 Giai Đoạn Về Đích
 
 ### 🧱 Giai Đoạn 1: Xây Lại Nền Tảng Vững Chắc (1.5 – 2 Tháng)
+>
 > *Mục tiêu cốt lõi: Triệt tiêu mọi lỗi sai cơ bản. Ở mục tiêu band 7.5, giám khảo sẽ trừ điểm rất nặng các lỗi sơ đẳng.*
 
 - [ ] **Ngữ pháp trọng điểm:** Không học lan man, nắm chắc và dùng nhuần nhuyễn:
@@ -58,6 +63,7 @@ Chiến lược an toàn và tối ưu nhất cho người học Việt Nam là:
 ---
 
 ### 🎯 Giai Đoạn 2: Làm Quen Format & Chiến Thuật Từng Dạng Bài (2 Tháng)
+>
 > *Mục tiêu cốt lõi: Hiểu rõ cấu trúc bài thi, nắm vững phương pháp làm cho từng dạng câu hỏi.*
 
 - [ ] **Listening & Reading:**
@@ -77,6 +83,7 @@ Chiến lược an toàn và tối ưu nhất cho người học Việt Nam là:
 ---
 
 ### 🔥 Giai Đoạn 3: Luyện Đề Chuyên Sâu & Sửa Sâu Lỗi Sai (2 – 3 Tháng)
+>
 > *Mục tiêu cốt lõi: Cày đề có phương pháp. Nguyên tắc vàng: "Thời gian chữa đề phải gấp đôi thời gian làm đề".*
 
 - [ ] **Listening & Reading:**
@@ -94,6 +101,7 @@ Chiến lược an toàn và tối ưu nhất cho người học Việt Nam là:
 ---
 
 ### ⚡ Giai Đoạn 4: Tăng Tốc & Mô Phỏng Áp Lực Phòng Thi (1 Tháng Cuối)
+>
 > *Mục tiêu cốt lõi: Tối ưu hóa tâm lý, nhịp sinh học và tốc độ làm bài thực tế.*
 
 - [ ] **Thi thử ép thời gian (Time Constraint Mock Test):**

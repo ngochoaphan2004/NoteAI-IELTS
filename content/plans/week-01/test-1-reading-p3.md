@@ -33,6 +33,7 @@ tags:
 ## 📋 Bảng Ghi Nhận Bài Làm Của Bạn (Questions 27 – 40)
 
 ### 🔹 Questions 27 – 31: Matching Information (Đoạn văn chứa thông tin)
+
 | STT | Bài Làm Của Bạn | Kết Quả Tự Check | Từ Khóa & Vị Trí Trong Đoạn Văn (Keyword Mapping) |
 | :---: | :--- | :---: | :--- |
 | **27** | *(chờ điền)* | [ ] | |
@@ -44,6 +45,7 @@ tags:
 ---
 
 ### 🔹 Questions 32 – 35: Summary Completion (Điền từ tóm tắt)
+
 | STT | Bài Làm Của Bạn | Kết Quả Tự Check | Từ Khóa & Vị Trí Trong Đoạn Văn (Keyword Mapping) |
 | :---: | :--- | :---: | :--- |
 | **32** | *(chờ điền)* | [ ] | |
@@ -54,6 +56,7 @@ tags:
 ---
 
 ### 🔹 Questions 36 – 40: Matching Features (Nối thông tin / Quan điểm)
+
 | STT | Bài Làm Của Bạn | Kết Quả Tự Check | Từ Khóa & Vị Trí Trong Đoạn Văn (Keyword Mapping) |
 | :---: | :--- | :---: | :--- |
 | **36** | *(chờ điền)* | [ ] | |
@@ -65,6 +68,7 @@ tags:
 ---
 
 ## 🧭 Bảng Bóc Tách Keyword Mapping (Kỹ Thuật Khớp Từ Khóa)
+
 *(Sau khi làm xong bài, ghi lại các cặp từ đồng nghĩa/paraphrase giữa câu hỏi và bài đọc)*
 
 | Câu hỏi (Question Prompt) | Bài đọc (Passage Evidence) | Bản chất Paraphrase / Bẫy nhận diện |
@@ -75,6 +79,7 @@ tags:
 ---
 
 ## 📌 Không Gian Tự Đánh Giá & Ghi Chú Của Bạn
+
 - **Thời gian làm bài thực tế:** `... phút` *(Mục tiêu: ≤ 20 phút)*
 - **Số câu hoàn thành:** `... / 14 câu`
 - **Các đoạn văn/câu hỏi tốn nhiều thời gian nhất:**
