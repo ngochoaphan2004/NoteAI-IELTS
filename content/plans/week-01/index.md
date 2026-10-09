@@ -21,7 +21,7 @@ tags:
 
 | Ngày & Thứ | Kỹ Năng & Khung Giờ | Phương Pháp Thực Thi (Execution) | Trạng Thái |
 | :--- | :--- | :--- | :---: |
-| **Thứ 5**<br>*(08/10/2026)* | **Listening (Đánh giá Baseline)**<br>`45 phút` | • **30p:** Thực hiện 1 bài kiểm tra Listening tiêu chuẩn (Cambridge 18 Test 1). Tuyệt đối không dừng audio giữa chừng.<br>• **15p:** Lưu trữ, đối soát đáp án và trích xuất lỗi sai. 👉 **[[plans/week-01/test-1-listening|Xem chi tiết bài làm Test 1 Listening]]** | [x] **Đã hoàn thành (23/40 - Band 6.0)** |
+| **Thứ 5**<br>*(08/10/2026)* | **Listening (Đánh giá Baseline)**<br>`45 phút` | • **30p:** Thực hiện 1 bài kiểm tra Listening tiêu chuẩn (Cambridge 18 Test 1). Tuyệt đối không dừng audio giữa chừng.<br>• **15p:** Lưu trữ, đối soát đáp án và trích xuất lỗi sai. 👉 **[[plans/week-01/test-1-listening|Xem chi tiết bài làm Test 1 Listening]]** | [x] **Đã hoàn thành (12/40 - Band 4.0 Baseline)** |
 | **Thứ 6 (Hôm nay)**<br>*(09/10/2026)* | **Reading (Khớp dữ liệu)**<br>`45 phút` | • **20p:** Xử lý 1 Passage 3 trong bộ Cambridge bằng kỹ thuật *keyword mapping* (khớp từ khóa giữa câu hỏi và bài đọc).<br>• **25p:** Phân tích ngược cấu trúc bài đọc. Trích xuất 5–7 cụm từ học thuật cốt lõi và các cơ chế liên kết câu (*cohesive devices*). | [ ] Chưa làm |
 | **Thứ 7**<br>*(10/10/2026)* | **Writing Task 1 (Báo cáo số liệu)**<br>`45 phút` | • **15p:** Khảo sát một biểu đồ biến động thời gian (Line/Bar graph). Xác định các xu hướng vĩ mô (*macro trends*) và các điểm dữ liệu ngoại lai (*outliers*).<br>• **30p:** Viết văn bản báo cáo. Loại bỏ hoàn toàn ngôn ngữ chủ quan, tính từ cảm xúc và mọi suy diễn cá nhân không có cơ sở từ biểu đồ. | [ ] Chưa làm |
 | **Chủ Nhật**<br>*(11/10/2026)* | **Speaking & System Review**<br>`50 phút` | • **20p:** Ghi âm toàn bộ quá trình trả lời liên tục 1 đề Speaking Part 2. Không được phép dừng lại hay sửa lỗi giữa chừng để thu thập dữ liệu độ trôi chảy thực tế.<br>• **30p:** Nghe lại để phát hiện lỗi ngập ngừng và lặp từ. Đồng bộ toàn bộ dữ liệu từ vựng/lỗi sai của 4 ngày vào hệ thống lặp lại ngắt quãng (Spaced Repetition / Anki) để lưu trữ dài hạn. | [ ] Chưa làm |
@@ -32,7 +32,7 @@ tags:
 
 ### 🎯 Thứ 5 (08/10/2026) — Listening Baseline (45 Phút)
 - [x] **30 phút làm bài:** Đã hoàn thành bài làm Cambridge 18 Test 1 Listening.
-- [x] **Đối soát & Đánh giá:** Đã đối chiếu 40 câu chính thức, đạt **23 / 40 câu đúng (Band 6.0)**. Part 4 xuất sắc đạt 9/10 câu.
+- [x] **Đối soát & Đánh giá:** Đã đối chiếu 40 câu, ghi nhận **12 / 40 câu đúng (Band 4.0 Baseline)** (làm 18 câu lúc thi, đạt độ chính xác 66.7% trên các câu làm được; Part 4 bỏ trống đã lưu trữ đáp án đối chiếu).
 - 🔗 **Bài làm chi tiết & Chữa bài:** 👉 [[plans/week-01/test-1-listening|Bài Làm Cambridge 18 - Test 1 Listening (Đề + Script + Chữa 40 câu + Báo cáo năng lực)]]
 
 ---
