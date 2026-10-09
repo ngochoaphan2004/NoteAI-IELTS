@@ -14,7 +14,23 @@ tags:
 
 ---
 
-## 1. 🧪 Luyện Đề & Thi Thử (Mock Test)
+## 1. 📚 Kho Sách Gốc & Đề Thi Chuẩn (Official Cambridge)
+
+### 📘 Sách Cambridge IELTS 18 (Full Bản Gốc PDF)
+> **Nội dung:** Trọn bộ 4 bài thi Academic (Listening, Reading, Writing, Speaking), Audio Transcripts, Đáp án chính thức và bài mẫu Writing chấm bởi giám khảo Examiner.  
+> **Dung lượng:** `52.4 MB`  
+> 🔗 **Thao tác:** [↗️ Mở Cambridge 18 trong tab mới](./assets/Cambridge-18.pdf) | [⬇️ Tải xuống Cambridge 18 Full PDF](./assets/Cambridge-18.pdf)
+
+<details>
+<summary><b>📖 Đọc trực tuyến Sách Cambridge IELTS 18 (Full 144 Trang)</b></summary>
+
+![[assets/Cambridge-18.pdf]]
+
+</details>
+
+---
+
+## 2. 🧪 Luyện Đề & Thi Thử (Mock Test)
 
 | Tên Nền Tảng | Đường Dẫn | Đặc Điểm Nổi Bật | Lời Khuyên Sử Dụng |
 | :--- | :--- | :--- | :--- |
