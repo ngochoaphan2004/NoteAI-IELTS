@@ -131,6 +131,11 @@ def validate_frontmatter_schema(full_path, rel_path, auto_fix=False):
                 warnings.append(f"Tự động bổ sung alias mặc định: '{base_alias}'")
             else:
                 warnings.append("Khuyến nghị có trường 'aliases' cho tài liệu bài học để tối ưu hóa tìm kiếm & Wikilinks.")
+        elif isinstance(aliases, list):
+            note_slug = normalize_slug(rel_path)
+            for a in aliases:
+                if normalize_slug(str(a)) == note_slug:
+                    errors.append(f"Alias '{a}' trùng với slug chính của file ({note_slug})! Điều này sẽ khiến Quartz tạo file redirect đè mất trang nội dung thực tế.")
 
         # Check sr-due (Spaced Repetition review date) for vocabulary files
         if os.path.basename(rel_path).startswith("vocab-"):

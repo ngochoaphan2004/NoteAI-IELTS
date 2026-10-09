@@ -1,7 +1,8 @@
 ---
 title: "Mẫu Ghi Nhận Bài Test & Đối Soát Đáp Án"
 aliases:
-  - template-test-attempt
+  - template
+  - test-template
 tags:
   - template
   - ielts

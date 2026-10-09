@@ -2,7 +2,6 @@
 title: "Lộ Trình Từ 5.0 Lên 7.5"
 aliases:
   - roadmap
-  - roadmap-5.0-to-7.5
 tags:
   - roadmap
   - band7plus

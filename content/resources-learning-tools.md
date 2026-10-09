@@ -3,7 +3,6 @@ title: "Tổng Hợp Website & Công Cụ"
 aliases:
   - resources
   - learning-tools
-  - resources-learning-tools
 tags:
   - resources
   - tools
