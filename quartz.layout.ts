@@ -14,6 +14,19 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+const explorerOptions = {
+  folderDefaultState: "open" as const,
+  mapFn: (node: any) => {
+    if (!node.isFolder && node.displayName) {
+      let name = node.displayName
+      name = name.replace(/^Bài Làm\s+/i, "")
+      name = name.replace(/\s*\(Cam\s*18\)/i, "")
+      name = name.replace(/Passage\s*3/i, "P3")
+      node.displayName = name.trim()
+    }
+  },
+}
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -38,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ folderDefaultState: "open" }),
+    Component.Explorer(explorerOptions),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -61,7 +74,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ folderDefaultState: "open" }),
+    Component.Explorer(explorerOptions),
   ],
   right: [],
 }
