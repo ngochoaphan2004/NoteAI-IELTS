@@ -81,3 +81,15 @@ Mỗi khi tiếp nhận thông tin hoặc cập nhật ghi chú từ người h�
    - Chạy `git push origin main` để đẩy lên GitHub Repository, kích hoạt GitHub Actions tự động build website.
 4. **Phản hồi ngắn gọn:** Thông báo cho người dùng tên file, tóm tắt thay đổi và xác nhận git push thành công.
 
+---
+
+## 8. 📇 Quy Chuẩn Đồng Bộ Anki Flashcard (Single Master Deck Rule)
+* **Quy tắc tuyệt đối:** Trong toàn bộ quá trình học, **CHỈ ĐƯỢC TẠO DUY NHẤT 1 DECK** có tên cố định: `IELTS - NoteAI Master Deck`.
+* **Phân loại thẻ:** Sử dụng hệ thống Tags (ví dụ: `week-01`, `listening`, `cam18`, `vocab`) để phân loại thẻ, tuyệt đối không tạo thêm sub-deck hoặc deck riêng lẻ theo từng bài/từng tuần.
+* **Quy trình đồng bộ tự động:**
+  - Mỗi khi thêm hoặc cập nhật từ vựng mới, tự động chạy lệnh `python scripts/anki_sync.py`.
+  - Script sẽ tự động:
+    1. Đóng gói/cập nhật gói thẻ cố định tại `content/assets/IELTS_Master_Deck.apkg` (với Deck ID cố định `2026100901` để khi người học nhập vào Anki trên PC/điện thoại, thẻ luôn được gom vào đúng 1 deck duy nhất mà không bị nhân bản).
+    2. Nếu Anki Desktop (có cài Add-on AnkiConnect `2055492188`) đang mở, tự động đẩy thẻ mới qua cổng API `http://localhost:8765` vào `IELTS - NoteAI Master Deck` và kích hoạt lệnh `sync` đẩy thẳng lên **AnkiWeb**.
+
+
