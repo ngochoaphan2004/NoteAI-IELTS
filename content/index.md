@@ -22,11 +22,11 @@ Trang tổng hợp toàn bộ ghi chú học IELTS. Các file mới sẽ tự đ
 
 ### 🎯 Lộ Trình & Mục Tiêu (Roadmaps)
 
-- [Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5](./roadmap-5.0-to-7.5.md) — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu.*
+- [[roadmap-5.0-to-7.5|Lộ Trình Luyện Thi IELTS Từ 5.0 Lên 7.5]] — *Chiến lược phân bổ điểm (Listening/Reading gánh điểm), 4 giai đoạn chi tiết từ nền tảng đến luyện đề chuyên sâu.*
 
 ### 🌐 Tài Nguyên & Công Cụ (Resources & Tools)
 
-- [Tổng hợp Website & Công cụ Luyện thi IELTS](./resources-learning-tools.md) — *Mock test (IELTS Online Tests, Mini-ielts), nguồn luyện 4 kỹ năng (Simon, TED-Ed, The Guardian...), từ điển và blog tham khảo.*
+- [[resources-learning-tools|Tổng hợp Website & Công cụ Luyện thi IELTS]] — *Mock test (IELTS Online Tests, Mini-ielts), nguồn luyện 4 kỹ năng (Simon, TED-Ed, The Guardian...), từ điển và blog tham khảo.*
 
 ---
 

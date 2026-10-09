@@ -24,6 +24,8 @@ tags:
 <details open>
 <summary><b>📄 Đề Bài: Cambridge 18 - Test 1 Reading Passage 3 (Test1-read-p3.pdf)</b></summary>
 
+> 🔗 **Thao tác:** [↗️ Mở Đề Reading Passage 3 trong tab mới](./assets/Test1-read-p3.pdf) | [⬇️ Tải xuống Đề PDF](./assets/Test1-read-p3.pdf)
+
 ![[assets/Test1-read-p3.pdf]]
 
 </details>

@@ -22,6 +22,10 @@ const explorerOptions = {
       name = name.replace(/^Bài Làm\s+/i, "")
       name = name.replace(/\s*\(Cam\s*18\)/i, "")
       name = name.replace(/Passage\s*3/i, "P3")
+      name = name.replace(/\s*Luyện Thi IELTS/i, "")
+      name = name.replace(/\s*\(40 Câu\)/i, "")
+      name = name.replace(/^Kế Hoạch\s+(?=Tuần)/i, "")
+      name = name.replace(/IELTS\s+5\.0\s+Lên\s+7\.5/i, "5.0 – 7.5")
       node.displayName = name.trim()
     }
   },
@@ -55,7 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 

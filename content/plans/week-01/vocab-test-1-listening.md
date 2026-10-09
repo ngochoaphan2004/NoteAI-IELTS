@@ -18,7 +18,7 @@ sr-due: "2026-10-10"
 > **Nguồn trích xuất:** Audio Script & Đề bài `Cambridge 18 - Test 1 Listening`  
 > **Tuần học:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]  
 > **Bài làm liên kết:** [[plans/week-01/test-1-listening|Bài Làm & Phân Tích Lỗi Sai Test 1]]  
-> 📥 **Gói thẻ Anki (1 Master Deck duy nhất):** [⬇️ Tải file IELTS_Master_Deck.apkg](../../assets/IELTS_Master_Deck.apkg)
+> 📥 **Gói thẻ Anki (1 Master Deck duy nhất):** [⬇️ Tải file IELTS_Master_Deck.apkg](./assets/IELTS_Master_Deck.apkg)
 
 ---
 

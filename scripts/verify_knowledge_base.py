@@ -228,7 +228,14 @@ def check_broken_links(full_path, rel_path, valid_slugs, valid_assets):
                 continue
 
             url_path = url_clean.split("#")[0].split("?")[0].strip()
-            if not url_path:
+            # Quartz asset links should be vault-root relative (./assets/... or assets/...)
+            if "assets/" in url_path and url_path.startswith("../"):
+                broken.append({
+                    "line": line_num,
+                    "type": "Invalid Asset Link Format",
+                    "raw": f"[{label}]({url})",
+                    "target": "Đường dẫn asset không được dùng '../' (dùng './assets/...' để Quartz không nhảy ra ngoài website)"
+                })
                 continue
 
             # Resolve relative path from file directory
