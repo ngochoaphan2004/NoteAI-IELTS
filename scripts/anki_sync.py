@@ -196,11 +196,29 @@ def parse_vocab_file(file_path):
 
     vocab_list = []
     # Find table rows
-    # | STT | Từ Vựng | Phiên Âm (IPA) | Loại Từ | Nghĩa Tiếng Việt | Collocations & Ví Dụ Trong Đề Thi |
+    # | STT | Từ Vựng | Phiên Âm (IPA) | Loại Từ | Nghĩa Tiếng Việt | Từ Đồng Nghĩa | Collocations & Ví Dụ Trong Đề Thi |
     table_lines = re.findall(r"^\|\s*\*\*?\d+\*\*?\s*\|(.+)\|", content, re.MULTILINE)
     for line in table_lines:
         parts = [p.strip() for p in line.split("|")]
-        if len(parts) >= 5:
+        if len(parts) >= 6:
+            word = clean_md(parts[0])
+            ipa = clean_md(parts[1])
+            pos = clean_md(parts[2])
+            meaning = clean_md(parts[3])
+            synonyms = clean_md(parts[4])
+            colloc = parts[5].replace("<br>", "<br/>").strip()
+            
+            vocab_list.append({
+                "word": word,
+                "ipa": ipa,
+                "pos": pos,
+                "meaning": meaning,
+                "synonyms": synonyms,
+                "collocations": colloc,
+                "context": title,
+                "tags": list(set(tags))
+            })
+        elif len(parts) >= 5:
             word = clean_md(parts[0])
             ipa = clean_md(parts[1])
             pos = clean_md(parts[2])
@@ -212,6 +230,7 @@ def parse_vocab_file(file_path):
                 "ipa": ipa,
                 "pos": pos,
                 "meaning": meaning,
+                "synonyms": "",
                 "collocations": colloc,
                 "context": title,
                 "tags": list(set(tags))
@@ -231,7 +250,7 @@ def anki_connect_invoke(action, **params):
     request_data = json.dumps({"action": action, "version": 6, "params": params}).encode("utf-8")
     req = urllib.request.Request("http://localhost:8765", data=request_data)
     try:
-        with urllib.request.urlopen(req, timeout=3) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             if len(data) != 2:
                 raise Exception("Phản hồi bất thường từ AnkiConnect")
@@ -254,16 +273,48 @@ def sync_via_ankiconnect(vocab_list):
 
     candidates = []
     for v in vocab_list:
+        syn_html = f"<div style='margin:6px 0 10px 0; color:#0969da; font-size:14px'><b>🔄 Đồng nghĩa:</b> {v['synonyms']}</div>" if v.get("synonyms") else ""
         note = {
             "deckName": DECK_NAME,
             "modelName": "Basic",
             "fields": {
                 "Front": f"<b>{v['word']}</b><br><span style='color:#666'>{v['ipa']}</span><br><i>{v['pos']}</i>",
-                "Back": f"<b style='color:#1a7f37;font-size:18px'>{v['meaning']}</b><br><br><div style='text-align:left;font-size:13px'>{v['collocations']}</div><br><span style='color:#888;font-size:11px'>Nguồn: {v['context']}</span>",
+                "Back": f"<b style='color:#1a7f37;font-size:18px'>{v['meaning']}</b>{syn_html}<div style='text-align:left;font-size:13px'>{v['collocations']}</div><br><span style='color:#888;font-size:11px'>Nguồn: {v['context']}</span>",
             },
             "tags": v["tags"]
         }
         candidates.append((v["word"], note))
+
+    # Cập nhật trường Đồng nghĩa cho các thẻ đã tồn tại
+    existing_cards = anki_connect_invoke("findNotes", query=f'deck:"{DECK_NAME}"')
+    if existing_cards:
+        notes_info = anki_connect_invoke("notesInfo", notes=existing_cards)
+        if notes_info and isinstance(notes_info, list):
+            word_to_id = {}
+            for n in notes_info:
+                f_val = n.get("fields", {}).get("Front", {}).get("value", "")
+                m = re.search(r"<b>([^<]+)</b>", f_val)
+                if m:
+                    word_to_id[m.group(1).strip().lower()] = n["noteId"]
+                clean_f = re.sub(r"<[^>]+>", " ", f_val).strip().lower()
+                word_to_id[clean_f] = n["noteId"]
+            
+            updated_count = 0
+            for v in vocab_list:
+                w = v["word"].strip().lower()
+                note_id = word_to_id.get(w)
+                if note_id:
+                    syn_html = f"<div style='margin:6px 0 10px 0; color:#0969da; font-size:14px'><b>🔄 Đồng nghĩa:</b> {v['synonyms']}</div>" if v.get("synonyms") else ""
+                    anki_connect_invoke("updateNoteFields", note={
+                        "id": note_id,
+                        "fields": {
+                            "Front": f"<b>{v['word']}</b><br><span style='color:#666'>{v['ipa']}</span><br><i>{v['pos']}</i>",
+                            "Back": f"<b style='color:#1a7f37;font-size:18px'>{v['meaning']}</b>{syn_html}<div style='text-align:left;font-size:13px'>{v['collocations']}</div><br><span style='color:#888;font-size:11px'>Nguồn: {v['context']}</span>",
+                        }
+                    })
+                    updated_count += 1
+            if updated_count:
+                print(f"-> Đã cập nhật trường Đồng nghĩa cho {updated_count} thẻ hiện có trong deck.")
 
     notes_to_check = [c[1] for c in candidates]
     can_add_list = anki_connect_invoke("canAddNotes", notes=notes_to_check)
@@ -303,6 +354,9 @@ def generate_apkg(vocab_list):
     deck = genanki.Deck(DECK_ID, DECK_NAME)
     
     for v in vocab_list:
+        colloc_content = v["collocations"]
+        if v.get("synonyms"):
+            colloc_content = f"<b>🔄 Đồng nghĩa:</b> {v['synonyms']}<br/><br/>" + colloc_content
         note = genanki.Note(
             model=anki_model,
             fields=[
@@ -310,7 +364,7 @@ def generate_apkg(vocab_list):
                 v["ipa"],
                 v["pos"],
                 v["meaning"],
-                v["collocations"],
+                colloc_content,
                 v["context"],
             ],
             tags=v["tags"],
