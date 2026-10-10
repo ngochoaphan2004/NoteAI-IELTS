@@ -81,14 +81,51 @@ tags:
 
 ### 📝 3. Khung Ghi Nhận Bài Viết Của Bạn (Task 1 Workspace)
 
-> 💡 **Hướng dẫn:** Hãy viết trực tiếp bài làm của bạn vào khung bên dưới. Không sử dụng tính từ mang tính phán xét chủ quan.
+> 💡 **Tính năng tương tác:** Khung viết tích hợp bộ đếm từ trực tiếp, đồng hồ đếm ngược 20 phút, tự động lưu vào LocalStorage (không sợ mất bài khi reload/tắt web), và nút 1-click sao chép bài làm cho AI.
 
-- **Thời gian làm bài thực tế:** `... phút` *(Mục tiêu: ≤ 20 phút)*
-- **Số từ hoàn thành:** `... từ` *(Mục tiêu: ≥ 150 từ)*
+<div class="ielts-writing-card" data-task="task-1" data-target="150" data-timer="20">
+  <div class="ielts-card-header">
+    <div class="ielts-header-title">
+      <span class="ielts-badge">Writing Task 1</span>
+      <span class="ielts-target-pill">Mục tiêu: ≥ 150 từ (Biểu đồ 4 nước châu Á)</span>
+    </div>
+    <div class="ielts-timer-widget">
+      <span class="ielts-timer-display">20:00</span>
+      <div class="ielts-timer-controls">
+        <button type="button" class="ielts-btn-timer ielts-btn-start" title="Bắt đầu tính giờ">▶️</button>
+        <button type="button" class="ielts-btn-timer ielts-btn-pause" title="Tạm dừng" style="display:none;">⏸️</button>
+        <button type="button" class="ielts-btn-timer ielts-btn-reset" title="Đặt lại đồng hồ">🔄</button>
+      </div>
+    </div>
+  </div>
 
-```text
-(Dán bài viết Task 1 của bạn vào đây)
-```
+  <div class="ielts-stats-bar">
+    <div class="ielts-stat-item">
+      <span class="ielts-stat-label">Số từ:</span>
+      <span class="ielts-stat-val ielts-word-count">0 từ</span>
+      <span class="ielts-progress-pill ielts-pill-neutral">Chưa nhập bài (Mục tiêu: ≥ 150)</span>
+    </div>
+    <div class="ielts-save-indicator">
+      <span class="ielts-save-text">🟢 Tự động lưu LocalStorage</span>
+    </div>
+  </div>
+
+  <div class="ielts-editor-wrapper">
+    <textarea class="ielts-textarea" placeholder="Bắt đầu viết bài báo cáo Task 1 của bạn tại đây..."></textarea>
+  </div>
+
+  <div class="ielts-card-actions">
+    <button type="button" class="ielts-btn ielts-btn-primary ielts-btn-copy">
+      📋 Sao Chép Cho AI
+    </button>
+    <button type="button" class="ielts-btn ielts-btn-secondary ielts-btn-download">
+      💾 Tải File .md
+    </button>
+    <button type="button" class="ielts-btn ielts-btn-ghost ielts-btn-clear">
+      🗑️ Xóa & Làm Lại
+    </button>
+  </div>
+</div>
 
 ---
 
@@ -123,14 +160,51 @@ tags:
 
 ### 📝 2. Khung Ghi Nhận Bài Viết Của Bạn (Task 2 Workspace)
 
-> 💡 **Hướng dẫn:** Hãy viết trực tiếp bài làm của bạn vào khung bên dưới khi bạn bắt đầu luyện tập Task 2.
+> 💡 **Tính năng tương tác:** Khung viết tích hợp bộ đếm từ trực tiếp, đồng hồ đếm ngược 40 phút, tự động lưu vào LocalStorage, và nút 1-click sao chép bài làm cho AI.
 
-- **Thời gian làm bài thực tế:** `... phút` *(Mục tiêu: ≤ 40 phút)*
-- **Số từ hoàn thành:** `... từ` *(Mục tiêu: ≥ 250 từ)*
+<div class="ielts-writing-card" data-task="task-2" data-target="250" data-timer="40">
+  <div class="ielts-card-header">
+    <div class="ielts-header-title">
+      <span class="ielts-badge">Writing Task 2</span>
+      <span class="ielts-target-pill">Mục tiêu: ≥ 250 từ (Opinion Essay: Aim of Science)</span>
+    </div>
+    <div class="ielts-timer-widget">
+      <span class="ielts-timer-display">40:00</span>
+      <div class="ielts-timer-controls">
+        <button type="button" class="ielts-btn-timer ielts-btn-start" title="Bắt đầu tính giờ">▶️</button>
+        <button type="button" class="ielts-btn-timer ielts-btn-pause" title="Tạm dừng" style="display:none;">⏸️</button>
+        <button type="button" class="ielts-btn-timer ielts-btn-reset" title="Đặt lại đồng hồ">🔄</button>
+      </div>
+    </div>
+  </div>
 
-```text
-(Dán bài viết Task 2 của bạn vào đây)
-```
+  <div class="ielts-stats-bar">
+    <div class="ielts-stat-item">
+      <span class="ielts-stat-label">Số từ:</span>
+      <span class="ielts-stat-val ielts-word-count">0 từ</span>
+      <span class="ielts-progress-pill ielts-pill-neutral">Chưa nhập bài (Mục tiêu: ≥ 250)</span>
+    </div>
+    <div class="ielts-save-indicator">
+      <span class="ielts-save-text">🟢 Tự động lưu LocalStorage</span>
+    </div>
+  </div>
+
+  <div class="ielts-editor-wrapper">
+    <textarea class="ielts-textarea" placeholder="Bắt đầu viết bài nghị luận Task 2 của bạn tại đây..."></textarea>
+  </div>
+
+  <div class="ielts-card-actions">
+    <button type="button" class="ielts-btn ielts-btn-primary ielts-btn-copy">
+      📋 Sao Chép Cho AI
+    </button>
+    <button type="button" class="ielts-btn ielts-btn-secondary ielts-btn-download">
+      💾 Tải File .md
+    </button>
+    <button type="button" class="ielts-btn ielts-btn-ghost ielts-btn-clear">
+      🗑️ Xóa & Làm Lại
+    </button>
+  </div>
+</div>
 
 ---
 
