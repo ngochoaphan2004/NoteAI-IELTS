@@ -224,6 +224,34 @@ Bảng tổng hợp đối chiếu trực tiếp từ các câu trong bài làm 
 | **4** | *Otherwise, Indonesia was started just 13% in 1970.* | Dùng sai *Otherwise*; bị động sai (*was started*). | *Meanwhile, Indonesia **started at just 13%** in 1970 before **witnessing a dramatic surge** after 2000.* |
 | **5** | *It pass 50% in 1990. And it keep increase in the next 20%.* | Sai thì (*pass, keep*); câu rời rạc; sai số liệu (*20%* thay vì *20 years*). | *...fluctuated between 40% and 50% **before rising steadily to approximately 55% by 2040**.* |
 
+## 💎 6. Kho 15 Cụm Từ & Collocations "Đòn Bẩy" Nâng Điểm (Band 7.5+)
+
+Dưới đây là 15 cấu trúc cụm từ được trích xuất trực tiếp từ bài viết mẫu chuẩn Cambridge 18 Test 1 Writing Task 1, phân loại theo mục đích diễn đạt:
+
+### A. Nhóm Mô Tả Xu Hướng Vĩ Mô (Overview & Xu Hướng Chung)
+
+- **`experienced consistent urban growth`**: trải qua sự tăng trưởng đô thị ổn định và liên tục (nâng cấp vượt bậc thay cho câu lỗi *population are increase*).
+- **`a trend that is projected to continue`**: một xu hướng được dự báo sẽ tiếp tục trong tương lai (mệnh đề quan hệ đồng vị ngữ nối tiếp câu Overview).
+- **`exhibited the most substantial increases`**: ghi nhận những mức tăng trưởng mạnh mẽ nhất (thay thế cho *highest increase*).
+- **`overtaking the others to become...`**: vượt qua các nước khác để trở thành... (mệnh đề phân từ rút gọn $V\text{-ing}$ chỉ kết quả).
+
+### B. Nhóm So Sánh Thứ Hạng, Leo Dốc & Đạt Đỉnh (Body 1)
+
+- **`followed closely by [X]`**: theo sát ngay phía sau là X (cụm phân từ quá khứ bị động dùng để so sánh số liệu liền kề).
+- **`surpassing the Philippines by 1990`**: vượt qua Philippines vào mốc năm 1990 (thay thế cho lỗi diễn đạt *pass over*).
+- **`climbing steeply to...`**: leo dốc mạnh mẽ lên mức... (miêu tả độ dốc của đường biểu đồ thay vì lặp động từ *increase*).
+- **`peak at over 80%`**: chạm đỉnh ở mức trên 80% (chú ý giới từ *at* khi chỉ giá trị số liệu đỉnh điểm).
+
+### C. Nhóm Chuyển Đoạn, Khởi Điểm, Dao Động & Bứt Phá (Body 2)
+
+- **`Turning to the remaining two nations`**: chuyển sang hai quốc gia còn lại (liên từ chuyển đoạn tự nhiên và mượt mà, thay thế triệt để cho lỗi dùng *Otherwise*).
+- **`commenced at under 20%`**: khởi điểm ở mức dưới 20% (dùng động từ chủ động C1 *commenced* thay cho lỗi bị động *was started*).
+- **`fluctuate between 40% and 50%`**: dao động trong khoảng 40% và 50% (mô tả chính xác đường biểu đồ trồi sụt của Philippines).
+- **`witnessed a dramatic surge`**: chứng kiến một cú bứt phá tăng vọt ngoạn mục (danh từ hóa nâng cao thay cho *it increased fast*).
+- **`matching the Philippines`**: bắt kịp mức của Philippines (phân từ rút gọn diễn tả điểm giao cắt của hai số liệu).
+- **`is anticipated to exceed 60%`**: được kỳ vọng sẽ vượt ngưỡng 60% (cấu trúc bị động dự báo tương lai khách quan).
+- **`grow more moderately`**: tăng trưởng với tốc độ khiêm tốn / vừa phải hơn (trạng từ *moderately* đối chiếu nhịp độ tăng trưởng chậm hơn các nước khác).
+
 ---
 
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan

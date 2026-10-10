@@ -27,7 +27,7 @@ sr-due: "2026-10-11"
 
 ---
 
-## 📋 1. Bảng Tổng Hợp 40 Từ Vựng & Cụm Từ Học Thuật Cốt Lõi Trong Tuần
+## 📋 1. Bảng Tổng Hợp 46 Từ Vựng Cốt Lõi (Listening, Reading, Writing)
 
 | STT | Từ Vựng | Phiên Âm (IPA) | Loại Từ | Nghĩa Tiếng Việt | Collocations & Ví Dụ Trong Đề Thi |
 | :---: | :--- | :--- | :---: | :--- | :--- |
@@ -71,10 +71,38 @@ sr-due: "2026-10-11"
 | **38** | **anticipated** | `/ænˈtɪsɪpeɪtɪd/` | *adj / v-ed* | Được kỳ vọng, dự đoán trước | • *is anticipated to exceed 60% by 2040* (được kỳ vọng sẽ vượt ngưỡng 60% vào năm 2040). |
 | **39** | **albeit** | `/ˌɔːlˈbiːɪt/` | *conj* | Mặc dù, dẫu cho (C2 Academic) | • *continued to expand, albeit at a slower pace* (tiếp tục mở rộng, dẫu với tốc độ khiêm tốn hơn). |
 | **40** | **forecast** *(pl: forecasts)* | `/ˈfɔːkɑːst/` | *n / v* | Dự báo; đưa ra số liệu dự báo | • *forecasts up to 2040* (các dự báo cho đến năm 2040)<br>• *is forecast to reach 80%* (được dự báo sẽ chạm mức 80%). |
+| **41** | **consistent** | `/kənˈsɪstənt/` | *adj* | Kiên định, liên tục, nhất quán | • *experienced consistent urban growth* (trải qua sự tăng trưởng đô thị ổn định và liên tục)<br>• *consistent pattern* (khuôn mẫu nhất quán). |
+| **42** | **notably** | `/ˈnəʊtəbli/` | *adv* | Đáng chú ý là, nổi bật là | • *Notably, Malaysia and Indonesia exhibited the most substantial increases.*<br>• Dùng để nhấn mạnh số liệu nổi trội trong Overview hoặc Body. |
+| **43** | **exhibit** *(pt/pp: exhibited)* | `/ɪɡˈzɪbɪt/` | *v* | Thể hiện, bộc lộ, ghi nhận | • *exhibited the most substantial increases* (ghi nhận những mức tăng trưởng mạnh mẽ nhất)<br>• *exhibit an upward trend*. |
+| **44** | **urbanised** | `/ˈɜːbənaɪzd/` | *adj* | Được đô thị hóa (mức độ đô thị hóa) | • *the most urbanised nation* (quốc gia có mức độ đô thị hóa cao nhất)<br>• *rapidly urbanised regions*. |
+| **45** | **peak** | `/piːk/` | *v / n* | Chạm đỉnh, đạt đỉnh điểm; đỉnh | • *peak at over 80%* (chạm đỉnh ở mức trên 80%)<br>• *reach a peak of 80%* (đạt mức đỉnh điểm là 80%). |
+| **46** | **onwards** | `/ˈɒnwədz/` | *adv* | Trở đi, kể từ đó về sau | • *from 1990 onwards* (kể từ năm 1990 trở đi)<br>• Diễn tả khoảng thời gian liên tục từ một mốc quá khứ. |
 
 ---
 
-## 🔍 2. Phân Tích Ngữ Cảnh & Cụm Từ Học Thuật Đắt Giá
+## 💎 2. Bảng 15 Cụm Từ & Collocations "Ăn Điểm" Band 7.5+ (Writing Task 1)
+
+| STT | Cụm Từ / Collocation | Phân Loại Cấu Trúc | Loại Từ | Nghĩa Tiếng Việt | Ngữ Cảnh & Ứng Dụng Trong Bài Viết |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **47** | **experienced consistent urban growth** | Collocation Động từ + Danh từ | *phrase* | Trải qua sự tăng trưởng đô thị ổn định và liên tục | • *All four countries experienced consistent urban growth over the historical period.*<br>• Nâng cấp vượt bậc thay cho câu lỗi *population are increase*. |
+| **48** | **a trend that is projected to continue** | Mệnh đề quan hệ đồng vị ngữ | *phrase* | Một xu hướng được dự báo sẽ tiếp tục trong tương lai | • *...over the historical period, a trend that is projected to continue into the future.*<br>• Cấu trúc đắt giá viết câu Overview Task 1 có mốc tương lai. |
+| **49** | **exhibited the most substantial increases** | Collocation Động từ + Danh từ | *phrase* | Ghi nhận những mức tăng trưởng mạnh mẽ nhất | • *Notably, Malaysia and Indonesia exhibited the most substantial increases.*<br>• Thay thế xuất sắc cho lỗi *Malaysia and Indonesia are the highest increase*. |
+| **50** | **overtaking the others to become...** | Mệnh đề phân từ rút gọn ($V\text{-ing}$) | *phrase* | Vượt qua các nước khác để trở thành... | • *...with Malaysia overtaking the others to become the most urbanised nation.*<br>• Mệnh đề phân từ chỉ kết quả, giúp câu văn cô đọng học thuật. |
+| **51** | **followed closely by [X]** | Cụm phân từ quá khứ bị động | *phrase* | Theo sát ngay phía sau là X | • *The Philippines had the highest rate at around 32%, followed closely by Malaysia at approximately 30%.*<br>• Cụm so sánh vị trí thứ hạng kinh điển trong Task 1. |
+| **52** | **surpassing the Philippines by 1990** | Mệnh đề phân từ rút gọn ($V\text{-ing}$) | *phrase* | Vượt qua Philippines vào mốc năm 1990 | • *Malaysia experienced rapid growth, surpassing the Philippines by 1990 (reaching nearly 45%).*<br>• Thay thế chuẩn xác cho lỗi dùng *pass over*. |
+| **53** | **climbing steeply to...** | Mệnh đề phân từ rút gọn ($V\text{-ing}$) | *phrase* | Leo dốc mạnh mẽ lên mức... | • *...and climbing steeply to over 75% in 2020.*<br>• Miêu tả độ dốc tăng vọt của đường biểu đồ thay vì lặp từ *increase*. |
+| **54** | **peak at over 80%** | Collocation Động từ + Giới từ | *phrase* | Chạm đỉnh ở mức trên 80% | • *This figure is predicted to peak at over 80% by 2040.*<br>• Chú ý giới từ *at* khi chỉ giá trị số liệu đỉnh điểm. |
+| **55** | **fluctuate between 40% and 50%** | Collocation Động từ + Giới từ | *phrase* | Dao động trong khoảng 40% và 50% | • *saw its urban population fluctuate between 40% and 50% from 1990 onwards.*<br>• Miêu tả chính xác đường biểu đồ trồi sụt của Philippines. |
+| **56** | **Turning to the remaining two nations** | Cụm phân từ chuyển đoạn | *phrase* | Chuyển sang hai quốc gia còn lại (chuyển đoạn mượt mà) | • *Turning to the remaining two nations, Thailand and Indonesia commenced at under 20% in 1970.*<br>• Thay thế hoàn hảo cho lỗi dùng *Otherwise*. |
+| **57** | **commenced at under 20%** | Collocation Động từ + Giới từ | *phrase* | Khởi điểm ở mức dưới 20% | • *Thailand and Indonesia commenced at under 20% in 1970.*<br>• Dùng động từ chủ động C1 *commenced* thay cho lỗi *was started*. |
+| **58** | **witnessed a dramatic surge** | Collocation Động từ + Danh từ | *phrase* | Chứng kiến một cú bứt phá tăng vọt ngoạn mục | • *Indonesia witnessed a dramatic surge after 2000, overtaking Thailand.*<br>• Cấu trúc danh từ hóa xuất sắc thay cho *it increase rapidly*. |
+| **59** | **matching the Philippines** | Mệnh đề phân từ rút gọn ($V\text{-ing}$) | *phrase* | Bắt kịp mức của Philippines | • *...overtaking Thailand and eventually matching the Philippines at over 50% by 2020.*<br>• Diễn tả điểm giao cắt của hai số liệu trên đồ thị. |
+| **60** | **is anticipated to exceed 60%** | Cấu trúc bị động dự báo tương lai | *phrase* | Được kỳ vọng sẽ vượt ngưỡng 60% | • *By 2040, Indonesia is anticipated to exceed 60%.*<br>• Cấu trúc câu dự báo tương lai khách quan Band 7.5+. |
+| **61** | **grow more moderately** | Collocation Động từ + Trạng từ | *phrase* | Tăng trưởng với tốc độ khiêm tốn / vừa phải hơn | • *Thailand is expected to grow more moderately to approximately 50%.*<br>• Trạng từ *moderately* đối chiếu nhịp độ tăng trưởng với các nước bứt phá. |
+
+---
+
+## 🔍 3. Phân Tích Ngữ Cảnh & Cụm Từ Học Thuật Đắt Giá
 
 ### 🎧 Kỹ Năng Listening: Cụm Thành Ngữ & Bẫy Paraphrase
 
@@ -103,7 +131,7 @@ sr-due: "2026-10-11"
 
 ---
 
-## 📝 3. Bài Tập Ứng Dụng Nhanh (Mini Quiz)
+## 📝 4. Bài Tập Ứng Dụng Nhanh (Mini Quiz)
 
 Điền từ thích hợp vào chỗ trống (*mitigate, surpassed, vulnerable, breakthroughs, debris*):
 
@@ -117,7 +145,7 @@ sr-due: "2026-10-11"
 
 ---
 
-## 🔗 4. Mạng Lưới Kiến Thức Liên Quan
+## 🔗 5. Mạng Lưới Kiến Thức Liên Quan
 
 - 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
 - 📖 **Chuyên đề ngữ pháp Task 1:** [[grammar-writing-task1-trends-clauses|Chuyên Đề Ngữ Pháp: Động Từ Xu Hướng, Mệnh Đề Rút Gọn & Cấu Trúc Dự Báo Trong Task 1]]
