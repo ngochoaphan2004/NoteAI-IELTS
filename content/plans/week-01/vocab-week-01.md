@@ -27,7 +27,7 @@ sr-due: "2026-10-11"
 
 ---
 
-## 📋 1. Bảng Tổng Hợp 25 Từ Vựng Cốt Lõi Trong Tuần
+## 📋 1. Bảng Tổng Hợp 40 Từ Vựng & Cụm Từ Học Thuật Cốt Lõi Trong Tuần
 
 | STT | Từ Vựng | Phiên Âm (IPA) | Loại Từ | Nghĩa Tiếng Việt | Collocations & Ví Dụ Trong Đề Thi |
 | :---: | :--- | :--- | :---: | :--- | :--- |
@@ -56,6 +56,21 @@ sr-due: "2026-10-11"
 | **23** | **surge** | `/sɜːdʒ/` | *n / v* | Sự tăng vọt ngoạn mục; tăng vọt | • *witness a dramatic surge* (chứng kiến một cú tăng vọt ấn tượng)<br>• *surge past rivals* (bứt phá vượt qua các đối thủ). |
 | **24** | **breakthrough** | `/ˈbreɪkθruː/` | *n* | Bước đột phá quan trọng | • *scientific breakthroughs* (những đột phá khoa học)<br>• *a major medical breakthrough* (đột phá y học trọng đại trong Writing Task 2). |
 | **25** | **betterment** | `/ˈbetəmənt/` | *n* | Sự cải thiện, làm cho tốt đẹp hơn | • *the betterment of human life* (sự nâng cao chất lượng cuộc sống con người)<br>• *social betterment* (sự tiến bộ xã hội). |
+| **26** | **furthermore** | `/ˌfɜːðəˈmɔː(r)/` | *adv* | Hơn nữa, ngoài ra (liên từ học thuật thêm ý) | • *Furthermore, urban populations are projected to increase substantially.*<br>• Dùng thay thế cho *And* ở đầu câu trong IELTS Writing. |
+| **27** | **subsequent** | `/ˈsʌbsɪkwənt/` | *adj* | Tiếp theo, xảy ra sau đó | • *over the subsequent two decades* (trong suốt hai thập kỷ tiếp theo)<br>• *subsequent developments* (những diễn biến kế tiếp). |
+| **28** | **upward** | `/ˈʌpwəd/` | *adj / adv* | Đi lên, hướng lên | • *sustain an upward trajectory* (duy trì quỹ đạo đi lên)<br>• *an upward trend* (xu hướng tăng trưởng). |
+| **29** | **substantial growth** | `/səbˈstænʃl ɡrəʊθ/` | *phrase / n* | Sự tăng trưởng mạnh mẽ, đáng kể | • *experienced the most substantial growth* (trải qua mức tăng trưởng mạnh mẽ nhất)<br>• *exhibited substantial growth*. |
+| **30** | **dweller** *(pl: dwellers)* | `/ˈdwelə(r)/` | *n* | Cư dân sinh sống tại một địa bàn | • *urban dwellers* (cư dân thành thị = *city residents*)<br>• *rural dwellers* (cư dân vùng nông thôn). |
+| **31** | **in contrast** | `/ɪn ˈkɒntrɑːst/` | *phrase / adv* | Ngược lại, đối lập với điều đó | • *In contrast, the Philippines saw modest fluctuations.*<br>• Dùng để đối chiếu hai đối tượng mang xu hướng trái ngược. |
+| **32** | **approximately** | `/əˈprɒksɪmətli/` | *adv* | Xấp xỉ, khoảng chừng | • *stood at approximately 30%* (ở mức xấp xỉ 30%)<br>• Từ đồng nghĩa: *roughly, around, nearly*. |
+| **33** | **declined** | `/dɪˈklaɪnd/` | *v-ed / adj* | Đã sụt giảm, suy giảm | • *declined marginally before rebounding* (đã giảm nhẹ trước khi phục hồi)<br>• ⚠️ *Nội động từ:* không dùng *was declined*. |
+| **34** | **otherwise** | `/ˈʌðəwaɪz/` | *adv / conj* | Nếu không thì; về mặt khác | • *Adhere to safety standards, otherwise accidents will occur.*<br>• ⚠️ **Bẫy sai:** Tuyệt đối không dùng để so sánh số liệu Task 1. |
+| **35** | **meanwhile** | `/ˈmiːnwaɪl/` | *adv* | Trong khi đó (đồng thời) | • *Meanwhile, Indonesia witnessed a dramatic surge.*<br>• Liên kết 2 diễn biến xảy ra song song cùng mốc thời gian. |
+| **36** | **steadily** | `/ˈstedəli/` | *adv* | Một cách đều đặn, ổn định | • *rose steadily to around 55%* (tăng đều đặn lên khoảng 55%)<br>• *grow steadily* (tăng trưởng ổn định). |
+| **37** | **surging** | `/ˈsɜːdʒɪŋ/` | *adj / v-ing* | Đang tăng vọt, bứt phá mạnh | • *a surging urban population* (dân số đô thị đang tăng vọt)<br>• *surging past rivals* (bứt phá vượt lên các đối thủ). |
+| **38** | **anticipated** | `/ænˈtɪsɪpeɪtɪd/` | *adj / v-ed* | Được kỳ vọng, dự đoán trước | • *is anticipated to exceed 60% by 2040* (được kỳ vọng sẽ vượt ngưỡng 60% vào năm 2040). |
+| **39** | **albeit** | `/ˌɔːlˈbiːɪt/` | *conj* | Mặc dù, dẫu cho (C2 Academic) | • *continued to expand, albeit at a slower pace* (tiếp tục mở rộng, dẫu với tốc độ khiêm tốn hơn). |
+| **40** | **forecast** *(pl: forecasts)* | `/ˈfɔːkɑːst/` | *n / v* | Dự báo; đưa ra số liệu dự báo | • *forecasts up to 2040* (các dự báo cho đến năm 2040)<br>• *is forecast to reach 80%* (được dự báo sẽ chạm mức 80%). |
 
 ---
 
@@ -79,11 +94,12 @@ sr-due: "2026-10-11"
 
 > [!IMPORTANT]
 >
-> - **Tránh lặp từ "increase":** Thay vì dùng *increase* liên tục, hãy linh hoạt chuyển đổi giữa:
->   - Động từ: *rose, climbed, surged, grew, expanded*.
->   - Danh từ: *growth, upward trend, upward trajectory, surge*.
->   - Vị thế so sánh: *surpassed, overtook, outpaced, matched*.
-> - **Nguyên tắc bị động:** Tuyệt đối không chia bị động cho các động từ xu hướng (*increased*, không dùng *was increased*).
+> - **Nguyên tắc bị động (Nội động từ):** Tuyệt đối không chia bị động cho các động từ xu hướng (*increased, rose, fell, fluctuated* - KHÔNG dùng *was increased*).
+> - **Dẫn dắt chi tiết:** Dùng *Specifically* hoặc *Looking at the details* thay vì *In specific* (sai ngữ pháp).
+> - **Cảnh báo lỗi với `Otherwise`:** Nghĩa là "nếu không thì" (câu điều kiện). Tuyệt đối không dùng *Otherwise* để mô tả hai đối tượng trái ngược trong Task 1 mà phải dùng *In contrast* hoặc *Meanwhile*.
+> - **Mệnh đề rút gọn & liên từ:** Dùng phân từ hiện tại (*surpassing, reaching*) hoặc *before + V-ing* để nối chuỗi hành động, loại bỏ tật lạm dụng liên từ *and*.
+> - **Mốc dự báo tương lai:** Dùng *By [năm], [S] is projected / predicted / expected to [V]*.
+> - 📖 **Học trọn vẹn lý thuyết chuyên sâu tại:** [[grammar-writing-task1-trends-clauses|Chuyên Đề Ngữ Pháp: Động Từ Xu Hướng, Mệnh Đề Rút Gọn & Cấu Trúc Dự Báo Trong Task 1]].
 
 ---
 
@@ -104,6 +120,7 @@ sr-due: "2026-10-11"
 ## 🔗 4. Mạng Lưới Kiến Thức Liên Quan
 
 - 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
+- 📖 **Chuyên đề ngữ pháp Task 1:** [[grammar-writing-task1-trends-clauses|Chuyên Đề Ngữ Pháp: Động Từ Xu Hướng, Mệnh Đề Rút Gọn & Cấu Trúc Dự Báo Trong Task 1]]
 - 🎧 **Bài làm Listening:** [[plans/week-01/test-1-listening|Bài Làm Test 1 Listening (Cam 18)]]
 - 📖 **Bài làm Reading:** [[plans/week-01/test-1-reading-p3|Bài Làm Reading Passage 3 (Cam 18)]]
 - ✍️ **Bài làm Writing:** [[plans/week-01/test-1-writing|Bài Làm Test 1 Writing (Cam 18)]]

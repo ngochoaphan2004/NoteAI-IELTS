@@ -51,6 +51,7 @@ tags:
 - [x] **15 phút phân tích:** Đã khảo sát biểu đồ đường tỷ lệ dân số thành thị của 4 quốc gia châu Á (1970 – 2040).
 - [x] **30 phút viết bài:** Đã hoàn thành văn bản báo cáo Task 1 (198 từ) và phác thảo mở bài Task 2 (29 từ).
 - [x] **Chẩn đoán & Chữa bài:** Đã lập bảng đối soát lỗi ngữ pháp, cấu trúc câu và bản viết nâng cấp Band 7.5+.
+- 📖 **Lý thuyết ngữ pháp trọng tâm:** 👉 [[grammar-writing-task1-trends-clauses|Chuyên Đề Ngữ Pháp: Động Từ Xu Hướng, Mệnh Đề Rút Gọn & Cấu Trúc Dự Báo Trong Task 1]]
 - 🔗 **Bài làm chi tiết:** 👉 [[plans/week-01/test-1-writing|Bài Làm Cambridge 18 - Test 1 Writing (Đề Task 1 & Task 2 + Báo cáo dữ liệu + Chẩn đoán chi tiết)]]
 
 ---
@@ -67,6 +68,7 @@ tags:
 - 🎧 **Bài làm Listening:** [[plans/week-01/test-1-listening|Bài Làm Test 1 Listening (Cam 18)]]
 - 📖 **Bài làm Reading:** [[plans/week-01/test-1-reading-p3|Bài Làm Test 1 Reading Passage 3 (Cam 18)]]
 - ✍️ **Bài làm Writing:** [[plans/week-01/test-1-writing|Bài Làm Test 1 Writing (Cam 18)]]
+- 📖 **Chuyên đề ngữ pháp Task 1:** [[grammar-writing-task1-trends-clauses|Chuyên Đề Ngữ Pháp: Động Từ Xu Hướng, Mệnh Đề Rút Gọn & Cấu Trúc Dự Báo Trong Task 1]]
 - 📚 **Sổ từ vựng trong tuần:** [[plans/week-01/vocab-week-01|Sổ Từ Vựng Trọng Tâm Tuần 1 (Listening, Reading, Writing)]]
 - 🎯 **Lộ trình tổng thể:** [[roadmap-5.0-to-7.5|Lộ trình 5.0 lên 7.5 (Listening & Reading 8.0+)]]
 - 🌐 **Tài nguyên học tập:** [[resources-learning-tools|Kho tài liệu luyện đề & công cụ hỗ trợ]]
