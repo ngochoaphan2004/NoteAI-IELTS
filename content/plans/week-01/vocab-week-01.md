@@ -80,7 +80,7 @@ sr-due: "2026-10-11"
 
 ---
 
-## 💎 2. Bảng 15 Cụm Từ & Collocations "Ăn Điểm" Band 7.5+ (Writing Task 1)
+## 💎 2. Bảng Cụm Từ & Collocations "Ăn Điểm" Band 7.5+ (Writing Task 1 & Task 2)
 
 | STT | Cụm Từ / Collocation | Phân Loại Cấu Trúc | Loại Từ | Nghĩa Tiếng Việt | Ngữ Cảnh & Ứng Dụng Trong Bài Viết |
 | :---: | :--- | :--- | :---: | :--- | :--- |
@@ -99,6 +99,7 @@ sr-due: "2026-10-11"
 | **59** | **matching the Philippines** | Mệnh đề phân từ rút gọn ($V\text{-ing}$) | *phrase* | Bắt kịp mức của Philippines | • *...overtaking Thailand and eventually matching the Philippines at over 50% by 2020.*<br>• Diễn tả điểm giao cắt của hai số liệu trên đồ thị. |
 | **60** | **is anticipated to exceed 60%** | Cấu trúc bị động dự báo tương lai | *phrase* | Được kỳ vọng sẽ vượt ngưỡng 60% | • *By 2040, Indonesia is anticipated to exceed 60%.*<br>• Cấu trúc câu dự báo tương lai khách quan Band 7.5+. |
 | **61** | **grow more moderately** | Collocation Động từ + Trạng từ | *phrase* | Tăng trưởng với tốc độ khiêm tốn / vừa phải hơn | • *Thailand is expected to grow more moderately to approximately 50%.*<br>• Trạng từ *moderately* đối chiếu nhịp độ tăng trưởng với các nước bứt phá. |
+| **62** | **yielded numerous groundbreaking innovations** | Collocation Động từ + Cụm Danh từ | *phrase* | Mang lại vô số những đổi mới / phát minh mang tính đột phá | • *Throughout human history, scientific advancements have yielded numerous groundbreaking innovations.*<br>• Cụm từ học thuật C1/C2 nâng cấp trực tiếp cho Task 2 thay vì *people have been invest many things by science*.<br>• Phân tích: **yield** (/jiːld/ - v: mang lại), **numerous** (/ˈnjuːmərəs/ - adj: vô số), **groundbreaking** (/ˈɡraʊndbreɪkɪŋ/ - adj: đột phá), **innovation** (/ˌɪnəˈveɪʃn/ - n: đổi mới sáng tạo). |
 
 ---
 
@@ -127,6 +128,7 @@ sr-due: "2026-10-11"
 > - **Cảnh báo lỗi với `Otherwise`:** Nghĩa là "nếu không thì" (câu điều kiện). Tuyệt đối không dùng *Otherwise* để mô tả hai đối tượng trái ngược trong Task 1 mà phải dùng *In contrast* hoặc *Meanwhile*.
 > - **Mệnh đề rút gọn & liên từ:** Dùng phân từ hiện tại (*surpassing, reaching*) hoặc *before + V-ing* để nối chuỗi hành động, loại bỏ tật lạm dụng liên từ *and*.
 > - **Mốc dự báo tương lai:** Dùng *By [năm], [S] is projected / predicted / expected to [V]*.
+> - **Collocation Writing Task 2 (`yield innovations`):** Động từ **`yield`** (/jiːld/) mang nghĩa "sinh ra, đem lại" thành quả to lớn (*yield groundbreaking innovations*). Thay thế hoàn hảo cho lỗi dùng từ *people have been invest many things by science*.
 > - 📖 **Học trọn vẹn lý thuyết chuyên sâu tại:** [[grammar-writing-task1-trends-clauses|Chuyên Đề Ngữ Pháp: Động Từ Xu Hướng, Mệnh Đề Rút Gọn & Cấu Trúc Dự Báo Trong Task 1]].
 
 ---
