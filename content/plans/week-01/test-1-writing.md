@@ -366,3 +366,4 @@ Overrall all of four countries have been increase in 50 years, and its keep incr
 ## 🔗 Mạng Lưới Kiến Thức Liên Quan
 
 - 📅 **Kế hoạch mẹ:** [[plans/week-01/|Kế Hoạch Tuần 1 (08/10 – 11/10/2026)]]
+- 📚 **Sổ từ vựng trong tuần:** [[plans/week-01/vocab-week-01|Sổ Từ Vựng Trọng Tâm Tuần 1 (Listening, Reading, Writing)]]

@@ -2,9 +2,7 @@
 title: "Sổ Từ Vựng Tuần 1 (08/10 – 11/10)"
 aliases:
   - vocab-week-01
-  - vocab-test-1-listening
-  - plans/week-01/vocab-test-1-listening
-  - vocab-cam18-test1
+  - vocab-cam18-week01
   - cam18-vocab
 tags:
   - ielts
