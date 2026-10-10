@@ -252,28 +252,8 @@ def sync_via_ankiconnect(vocab_list):
     # Đảm bảo duy nhất 1 Deck
     anki_connect_invoke("createDeck", deck=DECK_NAME)
 
-    # Lấy danh sách thẻ hiện có trong deck để tránh trùng lặp
-    existing_cards = anki_connect_invoke("findNotes", query=f'deck:"{DECK_NAME}"')
-    existing_words = set()
-    if existing_cards:
-        notes_info = anki_connect_invoke("notesInfo", notes=existing_cards)
-        if notes_info and isinstance(notes_info, list):
-            for n in notes_info:
-                fields = n.get("fields", {})
-                for f_name in ["Word", "Front"]:
-                    if f_name in fields:
-                        val = fields[f_name]["value"]
-                        clean_text = re.sub(r"<[^>]+>", " ", val).strip().lower()
-                        tokens = [t.strip() for t in clean_text.split() if t.strip()]
-                        if tokens:
-                            existing_words.add(tokens[0])
-                        existing_words.add(clean_text)
-
-    notes_to_add = []
+    candidates = []
     for v in vocab_list:
-        w = v["word"].lower().strip()
-        if w in existing_words:
-            continue
         note = {
             "deckName": DECK_NAME,
             "modelName": "Basic",
@@ -283,17 +263,34 @@ def sync_via_ankiconnect(vocab_list):
             },
             "tags": v["tags"]
         }
-        notes_to_add.append(note)
+        candidates.append((v["word"], note))
 
-    if notes_to_add:
-        res = anki_connect_invoke("addNotes", notes=notes_to_add)
-        if res and isinstance(res, list):
-            added_count = sum(1 for r in res if r is not None)
+    notes_to_check = [c[1] for c in candidates]
+    can_add_list = anki_connect_invoke("canAddNotes", notes=notes_to_check)
+    if can_add_list is None:
+        can_add_list = [True] * len(candidates)
+
+    valid_candidates = [c for c, can_add in zip(candidates, can_add_list) if can_add]
+
+    if valid_candidates:
+        notes_batch = [vc[1] for vc in valid_candidates]
+        batch_res = anki_connect_invoke("addNotes", notes=notes_batch)
+        if batch_res and isinstance(batch_res, list):
+            added_count = sum(1 for r in batch_res if r is not None)
             print(f"-> Đã thêm {added_count} thẻ mới vào deck '{DECK_NAME}'.")
         else:
-            print("-> Thẻ đã tồn tại hoặc đã được nạp.")
+            added_count = 0
+            for w, n in valid_candidates:
+                res = anki_connect_invoke("addNote", note=n)
+                if res is not None:
+                    added_count += 1
+            print(f"-> Đã thêm {added_count} thẻ mới vào deck '{DECK_NAME}'.")
     else:
-        print("-> Tất cả từ vựng đã tồn tại trong deck, không có thẻ trùng lặp.")
+        print(f"-> Tất cả {len(candidates)} từ vựng đã tồn tại đầy đủ trong deck '{DECK_NAME}'.")
+
+    deck_notes = anki_connect_invoke("findNotes", query=f'deck:"{DECK_NAME}"')
+    total_count = len(deck_notes) if deck_notes else 0
+    print(f"📊 Tổng số thẻ hiện tại trong deck: {total_count} thẻ.")
 
     # Tự động gọi lệnh sync lên AnkiWeb
     print("-> Đang kích hoạt đồng bộ lên AnkiWeb...")
