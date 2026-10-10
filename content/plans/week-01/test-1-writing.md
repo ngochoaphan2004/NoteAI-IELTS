@@ -163,19 +163,74 @@ Overrall all of four countries have been increase in 50 years, and its keep incr
 
 ---
 
+#### 📝 Bài Làm Thực Tế Của Bạn (Lưu Trữ Nguyên Bản - 198 từ)
+
+> [!NOTE]
+> **Trạng thái:** Đã nộp bài lúc 15:10 | **Độ dài:** 198 từ *(Đạt chỉ tiêu ≥ 150 từ)*  
+> **Nguyên văn bài làm của bạn:**
+>
+> "The percent of the population in four Asian countries living in cities has been increased for 50 years from 1970 to 2020. And popullation of the next 20 years will be increase significantly.
+>
+> Overall, the population of four countries living in cities are increase. Malaysia and Indonesia are the highest increase. In 1990, Malaysia was the highest  percentage of population living in cites. But it has been decreased 10% just for 20 years.
+>
+> In specific, Malaysia has 30% population in 1970 and it pass over Philippines in 1990 (45%) and pass over 70% in 2010. And in spire, it will increase over 60% in 2040. Otherwise, Indonesia was started just 13% in 1970 and it inscrease smoothly in 2000. It pass ThaiLan and Philippines to acchive over 50% in 2020, and over 60% in 2040.
+>
+> With Thailand was started 20% in 1970. It has keep the inscrease speed smoothly but it slower than any countries else. And it pass 50% in 2040. For Philippines, it start with highest percentage over 32% in 1970 and it pass 50% in 1990.
+>
+> Overrall all of four countries have been increase in 50 years, and its keep increase in the next 20%."
+
+---
+
 #### 🌟 Bản Viết Mẫu Nâng Cấp Band 7.5+ (Model Rewrite)
 
-> Dưới đây là bài viết được tối ưu lại toàn bộ cấu trúc câu và từ vựng từ chính các ý tưởng của bạn:
+> [!TIP]
+> **Cách học hiệu quả:** Đọc kỹ từng đoạn văn dưới đây để so sánh cách nhóm số liệu, cách dùng liên từ mượt mà và các cụm từ vựng học thuật thay thế cho việc lặp từ *increase*.
 
-```text
-The line graph compares the proportion of urban residents in four Asian nations from 1970 to 2020, with forecasts up to 2040.
+##### 📌 Đoạn 1: Introduction (Mở bài - Paraphrase đề bài)
 
-Overall, all four countries experienced consistent urban growth over the historical period, a trend that is projected to continue into the future. Notably, Malaysia and Indonesia exhibited the most substantial increases, with Malaysia overtaking the others to become the most urbanised nation.
+> **The line graph compares the proportion of urban residents in four Asian nations from 1970 to 2020, with forecasts up to 2040.**
 
-In 1970, the Philippines had the highest rate of urbanization at around 32%, followed closely by Malaysia at approximately 30%. However, Malaysia experienced rapid growth, surpassing the Philippines by 1990 (reaching nearly 45%) and climbing steeply to over 75% in 2020. This figure is predicted to peak at over 80% by 2040. In contrast, the Philippines saw its urban population fluctuate between 40% and 50% from 1990 onwards, before being projected to rise steadily to around 55% in 2040.
+- 🔍 **Kỹ thuật Paraphrase:**
+  - `percentage of the population living in cities` $\rightarrow$ **`proportion of urban residents`** (tỷ lệ cư dân thành thị).
+  - `four Asian countries` $\rightarrow$ **`four Asian nations`** (bốn quốc gia châu Á).
+  - `predictions for 2030 and 2040` $\rightarrow$ **`forecasts up to 2040`** (các dự báo cho đến năm 2040).
+- 💡 **Dịch nghĩa:** Biểu đồ đường so sánh tỷ lệ dân cư thành thị tại bốn quốc gia châu Á từ năm 1970 đến năm 2020, cùng với các dự báo cho đến năm 2040.
 
-Turning to the remaining two nations, Thailand and Indonesia commenced at under 20% in 1970, with Indonesia recording the lowest figure at just 13%. Nevertheless, Indonesia witnessed a dramatic surge after 2000, overtaking Thailand and eventually matching the Philippines at over 50% by 2020. By 2040, Indonesia is anticipated to exceed 60%, whereas Thailand is expected to grow more moderately to approximately 50%.
-```
+##### 📌 Đoạn 2: Overview (Tổng quan - 2 xu hướng vĩ mô nổi bật nhất)
+
+> **Overall, all four countries experienced consistent urban growth over the historical period, a trend that is projected to continue into the future. Notably, Malaysia and Indonesia exhibited the most substantial increases, with Malaysia overtaking the others to become the most urbanised nation.**
+
+- 🔍 **Cụm từ ghi điểm (Band 7.5+):**
+  - **`experienced consistent urban growth`**: trải qua sự tăng trưởng đô thị ổn định và liên tục (thay cho *are increase*).
+  - **`a trend that is projected to continue`**: một xu hướng được dự báo sẽ tiếp tục trong tương lai.
+  - **`exhibited the most substantial increases`**: ghi nhận những mức tăng trưởng mạnh mẽ nhất.
+  - **`overtaking the others to become...`**: vượt qua các nước khác để trở thành... (mệnh đề phân từ rút gọn).
+- 💡 **Dịch nghĩa:** Nhìn chung, cả bốn quốc gia đều ghi nhận sự tăng trưởng dân số đô thị ổn định trong suốt giai đoạn lịch sử, và xu hướng này được dự báo sẽ tiếp tục trong tương lai. Đáng chú ý, Malaysia và Indonesia có mức tăng mạnh mẽ nhất, trong đó Malaysia đã vượt lên các nước còn lại để trở thành quốc gia có mức độ đô thị hóa cao nhất.
+
+##### 📌 Đoạn 3: Body Paragraph 1 (Thân bài 1 - Malaysia & Philippines)
+
+> **In 1970, the Philippines had the highest rate of urbanization at around 32%, followed closely by Malaysia at approximately 30%. However, Malaysia experienced rapid growth, surpassing the Philippines by 1990 (reaching nearly 45%) and climbing steeply to over 75% in 2020. This figure is predicted to peak at over 80% by 2040. In contrast, the Philippines saw its urban population fluctuate between 40% and 50% from 1990 onwards, before being projected to rise steadily to around 55% in 2040.**
+
+- 🔍 **Cụm từ ghi điểm (Band 7.5+):**
+  - **`followed closely by [X]`**: theo sát ngay phía sau là X.
+  - **`surpassing the Philippines by 1990`**: vượt qua Philippines vào mốc năm 1990 (thay cho *pass over*).
+  - **`climbing steeply to...`**: leo dốc mạnh mẽ lên mức...
+  - **`peak at over 80%`**: chạm đỉnh ở mức trên 80%.
+  - **`fluctuate between 40% and 50%`**: dao động trong khoảng 40% và 50% (mô tả chính xác đường biểu đồ của Philippines).
+- 💡 **Dịch nghĩa:** Vào năm 1970, Philippines có tỷ lệ đô thị hóa cao nhất ở mức khoảng 32%, theo sát phía sau là Malaysia với xấp xỉ 30%. Tuy nhiên, Malaysia đã tăng trưởng rất nhanh, vượt qua Philippines vào năm 1990 (đạt gần 45%) và tăng vọt lên hơn 75% vào năm 2020. Con số này được dự đoán sẽ đạt đỉnh trên 80% vào năm 2040. Ngược lại, Philippines ghi nhận dân số thành thị dao động từ 40% đến 50% kể từ sau năm 1990, trước khi được dự báo sẽ tăng đều đặn lên khoảng 55% vào năm 2040.
+
+##### 📌 Đoạn 4: Body Paragraph 2 (Thân bài 2 - Indonesia & Thailand)
+
+> **Turning to the remaining two nations, Thailand and Indonesia commenced at under 20% in 1970, with Indonesia recording the lowest figure at just 13%. Nevertheless, Indonesia witnessed a dramatic surge after 2000, overtaking Thailand and eventually matching the Philippines at over 50% by 2020. By 2040, Indonesia is anticipated to exceed 60%, whereas Thailand is expected to grow more moderately to approximately 50%.**
+
+- 🔍 **Cụm từ ghi điểm (Band 7.5+):**
+  - **`Turning to the remaining two nations`**: liên từ chuyển đoạn tự nhiên và mượt mà (thay cho *Otherwise*).
+  - **`commenced at under 20%`**: khởi điểm ở mức dưới 20% (thay cho *was started*).
+  - **`witnessed a dramatic surge`**: chứng kiến một cú bứt phá tăng vọt ngoạn mục.
+  - **`matching the Philippines`**: bắt kịp mức của Philippines.
+  - **`is anticipated to exceed 60%`**: được kỳ vọng sẽ vượt ngưỡng 60%.
+  - **`grow more moderately`**: tăng trưởng với tốc độ khiêm tốn / vừa phải hơn.
+- 💡 **Dịch nghĩa:** Chuyển sang hai quốc gia còn lại, Thái Lan và Indonesia bắt đầu ở mức dưới 20% vào năm 1970, trong đó Indonesia ghi nhận con số thấp nhất ở mức chỉ 13%. Dẫu vậy, Indonesia đã chứng kiến sự tăng vọt mạnh mẽ sau năm 2000, vượt qua Thái Lan và sau đó bắt kịp Philippines ở mức trên 50% vào năm 2020. Đến năm 2040, Indonesia được kỳ vọng sẽ vượt 60%, trong khi Thái Lan dự kiến tăng trưởng vừa phải hơn để đạt xấp xỉ 50%.
 
 ---
 
@@ -259,6 +314,16 @@ Turning to the remaining two nations, Thailand and Indonesia commenced at under 
 ---
 
 ### 🔬 3. Phân Tích & Chẩn Đoán Chi Tiết Task 2 (Diagnostic Feedback)
+
+#### 📝 Bản Phác Thảo Thực Tế Của Bạn (Lưu Trữ Nguyên Bản - 29 từ)
+
+> [!NOTE]
+> **Độ dài hiện tại:** 29 từ | **Mục tiêu:** ≥ 250 từ *(Đang ở giai đoạn Mở bài)*  
+> **Nguyên văn bài làm của bạn:**
+>
+> "In the human history, people have been invest many things by science. Its can improve people's live example vaccin, information technology, ... In my oppinion, I agree with the statement"
+
+---
 
 #### 📌 Nhận Xét Đoạn Phác Thảo Hiện Tại (29 từ)
 
