@@ -23,7 +23,7 @@ tags:
 | :--- | :--- | :--- | :---: |
 | **Thứ 5**<br>*(08/10/2026)* | **Listening (Đánh giá Baseline)**<br>`45 phút` | • **30p:** Thực hiện 1 bài kiểm tra Listening tiêu chuẩn (Cambridge 18 Test 1). Tuyệt đối không dừng audio giữa chừng.<br>• **15p:** Lưu trữ, đối soát đáp án và trích xuất lỗi sai. 👉 **[[plans/week-01/test-1-listening\|Xem chi tiết bài làm Test 1 Listening]]** | [x] **Đã hoàn thành (12/40 - Band 4.0 Baseline)** |
 | **Thứ 6**<br>*(09/10/2026)* | **Reading (Khớp dữ liệu)**<br>`45 phút` | • **20p:** Xử lý 1 Passage 3 trong bộ Cambridge bằng kỹ thuật *keyword mapping* (khớp từ khóa giữa câu hỏi và bài đọc).<br>• **25p:** Phân tích ngược cấu trúc bài đọc. Trích xuất 5–7 cụm từ học thuật cốt lõi và các cơ chế liên kết câu (*cohesive devices*). 👉 **[[plans/week-01/test-1-reading-p3\|Xem chi tiết đề & bài làm Passage 3]]** | [ ] Đang thực hiện |
-| **Thứ 7 (Hôm nay)**<br>*(10/10/2026)* | **Writing Task 1 (Báo cáo số liệu)**<br>`45 phút` | • **15p:** Khảo sát một biểu đồ biến động thời gian (Line/Bar graph). Xác định các xu hướng vĩ mô (*macro trends*) và các điểm dữ liệu ngoại lai (*outliers*).<br>• **30p:** Viết văn bản báo cáo. Loại bỏ hoàn toàn ngôn ngữ chủ quan, tính từ cảm xúc và mọi suy diễn cá nhân không có cơ sở từ biểu đồ. 👉 **[[plans/week-01/test-1-writing\|Xem chi tiết đề & bài làm Test 1 Writing]]** | [ ] Đang thực hiện |
+| **Thứ 7 (Hôm nay)**<br>*(10/10/2026)* | **Writing Task 1 (Báo cáo số liệu)**<br>`45 phút` | • **15p:** Khảo sát một biểu đồ biến động thời gian (Line/Bar graph). Xác định các xu hướng vĩ mô (*macro trends*) và các điểm dữ liệu ngoại lai (*outliers*).<br>• **30p:** Viết văn bản báo cáo. Loại bỏ hoàn toàn ngôn ngữ chủ quan, tính từ cảm xúc và mọi suy diễn cá nhân không có cơ sở từ biểu đồ. 👉 **[[plans/week-01/test-1-writing\|Xem chi tiết đề & bài làm Test 1 Writing]]** | [x] **Đã làm bài & Chẩn đoán lỗi (Task 1: 198 từ)** |
 | **Chủ Nhật**<br>*(11/10/2026)* | **Speaking & System Review**<br>`50 phút` | • **20p:** Ghi âm toàn bộ quá trình trả lời liên tục 1 đề Speaking Part 2. Không được phép dừng lại hay sửa lỗi giữa chừng để thu thập dữ liệu độ trôi chảy thực tế.<br>• **30p:** Nghe lại để phát hiện lỗi ngập ngừng và lặp từ. Đồng bộ toàn bộ dữ liệu từ vựng/lỗi sai của 4 ngày vào hệ thống lặp lại ngắt quãng (Spaced Repetition / Anki) để lưu trữ dài hạn. | [ ] Chưa làm |
 
 ---
@@ -48,9 +48,10 @@ tags:
 
 ### 🎯 Thứ 7 (10/10/2026) — Writing Task 1 Báo Cáo Dữ Liệu (45 Phút)
 
-- [ ] **15 phút phân tích:** Khảo sát biểu đồ biến động thời gian (Line/Bar graph). Xác định các xu hướng vĩ mô (*macro trends*) và cực trị (*outliers*).
-- [ ] **30 phút viết bài:** Viết văn bản báo cáo khách quan, loại bỏ hoàn toàn tính từ cảm xúc và suy diễn chủ quan.
-- 🔗 **Bài làm chi tiết:** 👉 [[plans/week-01/test-1-writing|Bài Làm Cambridge 18 - Test 1 Writing (Đề Task 1 & Task 2 + Báo cáo dữ liệu)]]
+- [x] **15 phút phân tích:** Đã khảo sát biểu đồ đường tỷ lệ dân số thành thị của 4 quốc gia châu Á (1970 – 2040).
+- [x] **30 phút viết bài:** Đã hoàn thành văn bản báo cáo Task 1 (198 từ) và phác thảo mở bài Task 2 (29 từ).
+- [x] **Chẩn đoán & Chữa bài:** Đã lập bảng đối soát lỗi ngữ pháp, cấu trúc câu và bản viết nâng cấp Band 7.5+.
+- 🔗 **Bài làm chi tiết:** 👉 [[plans/week-01/test-1-writing|Bài Làm Cambridge 18 - Test 1 Writing (Đề Task 1 & Task 2 + Báo cáo dữ liệu + Chẩn đoán chi tiết)]]
 
 ---
 
